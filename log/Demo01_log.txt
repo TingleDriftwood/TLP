@@ -1,0 +1,298 @@
+[23:02:29] Now logging to ..\logs\Chat_log_2013_0211_2302.txt.
+=====================================Begin Kamp 1=========================================================================================
+[06:38:37] You begin autoattacking.
+[06:38:37] Your <highlight>Razor Parts Silk II</color> hits Infected Fang.
+[06:38:37] The damage over time effect of your <highlight>Razor Parts Silk II</color> deals <highlight>63</color> damage to Infected Fang.
+[06:38:38] Infected Fang hits you for <highlight>104</color> damage.
+[06:38:39] You slash Infected Fang for <highlight>52 (46+6)</color> damage.
+[06:38:40] Infected Fang's <highlight>Ravaging Bite</color> misses you!
+[06:38:40] Your <highlight>Sever the Tie II</color> hits Infected Fang for <highlight>115 (99+16)</color> damage.
+[06:38:41] The damage over time effect of your <highlight>Razor Parts Silk II</color> deals <highlight>65</color> damage to Infected Fang.
+[06:38:43] Infected Fang hits you for <highlight>105</color> damage.
+[06:38:43] Your <highlight>Sever the Tie II</color> hits Infected Fang for <highlight>113 (93+20)</color> damage.
+[06:38:45] Infected Fang hits you for <highlight>101</color> damage.
+[06:38:45] Your <highlight>Sever the Tie II</color> misses Infected Fang!
+[06:38:45] The damage over time effect of your <highlight>Razor Parts Silk II</color> deals <highlight>64</color> damage to Infected Fang.
+[06:38:47] You parry Infected Fang's attack.
+[06:38:47] You slash Infected Fang for <highlight>94 (77+17)</color> damage.
+[06:38:48] Your <highlight>Sever the Tie II</color> misses Infected Fang!
+[06:38:49] Infected Fang hits you for <highlight>105</color> damage.
+[06:38:49] The damage over time effect of your <highlight>Razor Parts Silk II</color> deals <highlight>64</color> damage to Infected Fang.
+[06:38:51] Infected Fang hits you for <highlight>105</color> damage.
+[06:38:52] Your <highlight>Thread the Needle I</color> hits Infected Fang for <highlight>93 (81+12)</color> damage.
+[06:38:53] Infected Fang hits you for <highlight>94</color> damage.
+[06:38:53] The damage over time effect of your <highlight>Razor Parts Silk II</color> deals <highlight>66</color> damage to Infected Fang.
+[06:38:54] You slash Infected Fang for <highlight>93 (76+17)</color> damage.
+[06:38:55] Infected Fang's <highlight>Ravaging Bite</color> hits you for <highlight>56</color> damage.
+[06:38:57] Your <highlight>Sever the Tie II</color> hits Infected Fang for <highlight>117 (99+18)</color> damage.
+[06:38:57] The damage over time effect of your <highlight>Razor Parts Silk II</color> deals <highlight>68</color> damage to Infected Fang.
+[06:38:58] Infected Fang hits you for <highlight>96</color> damage.
+[06:38:59] You slash Infected Fang for <highlight>95 (82+13)</color> damage.
+[06:38:59] You stop autoattacking.
+[06:39:00] Your <highlight>Sever the Tie II</color> hits Infected Fang for <highlight>122 (104+18)</color> damage.
+[06:39:00] You have slain Infected Fang!
+=====================================Begin Kamp 2=========================================================================================
+[06:41:27] You begin autoattacking.
+[06:41:27] Your <highlight>Razor Parts Silk II</color> hits Ksaravi Venom-mage.
+[06:41:27] The damage over time effect of your <highlight>Razor Parts Silk II</color> deals <highlight>94</color> damage to Ksaravi Venom-mage.
+[06:41:28] Ksaravi Venom-mage hits you for <highlight>39</color> damage.
+[06:41:29] Ksaravi Venom-mage hits you for <highlight>40</color> damage.
+[06:41:29] You miss Ksaravi Venom-mage!
+[06:41:31] Ksaravi Venom-mage begins to cast a spell.
+[06:41:31] Your <highlight>Sever the Tie II</color> hits Ksaravi Venom-mage for <highlight>118 (103+15)</color> damage.
+[06:41:31] The damage over time effect of your <highlight>Razor Parts Silk II</color> deals <highlight>96</color> damage to Ksaravi Venom-mage.
+[06:41:33] Ksaravi Venom-mage begins to cast a spell.
+[06:41:33] Ksaravi Venom-mage's <highlight>Poison Bolt</color> hits you for <highlight>114</color> damage.
+[06:41:34] You slash Ksaravi Venom-mage for <highlight>92 (81+11)</color> damage.
+[06:41:34] Your <highlight>Striking the Mountain II</color> hits Ksaravi Venom-mage.
+[06:41:34] <blue>You exploit the armor chink weakness on Ksaravi Venom-mage, stunning it.
+[06:41:34] You exploit the <highlight>armor chink</color> weakness on Ksaravi Venom-mage, dealing additional damage.
+[06:41:34] Your <highlight>Striking the Mountain II</color> hits Ksaravi Venom-mage for <highlight>198 (162+36)</color> damage.
+[06:41:35] The damage over time effect of your <highlight>Razor Parts Silk II</color> deals <highlight>98</color> damage to Ksaravi Venom-mage.
+[06:41:36] Ksaravi Venom-mage hits you for <highlight>40</color> damage.
+[06:41:38] Ksaravi Venom-mage begins to cast a spell.
+[06:41:39] You slash Ksaravi Venom-mage for <highlight>96 (84+12)</color> damage.
+[06:41:39] Your <highlight>Razor Parts Silk II</color> misses Ksaravi Venom-mage!
+[06:41:40] The damage over time effect of your <highlight>Razor Parts Silk II</color> deals <highlight>99</color> damage to Ksaravi Venom-mage.
+[06:41:41] You stop autoattacking.
+[06:41:42] Your <highlight>Sever the Tie II</color> hits Ksaravi Venom-mage for <highlight>125 (110+15)</color> damage.
+[06:41:42] You have slain Ksaravi Venom-mage!
+=====================================Begin Kamp 3=========================================================================================
+[06:44:19] You begin autoattacking.
+[06:44:20] Ksaravi Fang hits you for <highlight>37</color> damage.
+[06:44:20] Your <highlight>Sever the Tie II</color> hits Ksaravi Fang for <highlight>119 (101+18)</color> damage.
+[06:44:20] The damage over time effect of your <highlight>Razor Parts Silk II</color> deals <highlight>94</color> damage to Ksaravi Fang.
+[06:44:21] You slash Ksaravi Fang for <highlight>93 (76+17)</color> damage.
+[06:44:21] Ksaravi Fang hits you for <highlight>36</color> damage.
+[06:44:23] Ksaravi Fang hits you for <highlight>38</color> damage.
+[06:44:23] You stop autoattacking.
+[06:44:24] You slash Ksaravi Fang for <highlight>94 (81+13)</color> damage.
+[06:44:24] You have slain Ksaravi Fang!
+=====================================Begin Kamp 4=========================================================================================
+[23:05:21] You begin autoattacking.
+[23:05:21] Your <highlight>Razor Parts Silk II</color> hits Ksaravi Blight-mage.
+[23:05:21] The damage over time effect of your <highlight>Razor Parts Silk II</color> deals <highlight>99</color> damage to Ksaravi Blight-mage.
+[23:05:22] Ksaravi Blight-mage begins to cast a spell.
+[23:05:23] You slash Ksaravi Blight-mage for <highlight>95 (83+12)</color> damage.
+[23:05:25] Your <highlight>Striking the Mountain II</color> hits Ksaravi Blight-mage.
+[23:05:25] <blue>You exploit the armor chink weakness on Ksaravi Blight-mage, stunning it.
+[23:05:25] You exploit the <highlight>armor chink</color> weakness on Ksaravi Blight-mage, dealing additional damage.
+[23:05:25] Your <highlight>Striking the Mountain II</color> hits Ksaravi Blight-mage for <highlight>210 (182+28)</color> damage.
+[23:05:25] The damage over time effect of your <highlight>Razor Parts Silk II</color> deals <highlight>97</color> damage to Ksaravi Blight-mage.
+[23:05:26] Ksaravi Blight-mage hits you for <highlight>36</color> damage.
+[23:05:27] Ksaravi Blight-mage begins to cast a spell.
+[23:05:27] Your <highlight>Thread the Needle I</color> hits Ksaravi Blight-mage for <highlight>90 (78+12)</color> damage.
+[23:05:29] The damage over time effect of your <highlight>Razor Parts Silk II</color> deals <highlight>100</color> damage to Ksaravi Blight-mage.
+[23:05:29] You stop autoattacking.
+[23:05:29] You slash Ksaravi Blight-mage for <highlight>92 (76+16)</color> damage.
+[23:05:31] Your <highlight>Sever the Tie II</color> hits Ksaravi Blight-mage for <highlight>124 (109+15)</color> damage.
+[23:05:31] You have slain Ksaravi Blight-mage!
+=====================================Begin Kamp 5=========================================================================================
+[23:05:45] You begin autoattacking.
+[23:05:45] Your <highlight>Razor Parts Silk II</color> hits Ksaravi Sentinel.
+[23:05:45] The damage over time effect of your <highlight>Razor Parts Silk II</color> deals <highlight>96</color> damage to Ksaravi Sentinel.
+[23:05:45] You parry Ksaravi Blight-mage's attack.
+[23:05:46] Ksaravi Sentinel hits you for <highlight>36</color> damage.
+[23:05:47] Ksaravi Blight-mage hits you for <highlight>35</color> damage.
+[23:05:47] Ksaravi Sentinel hits you for <highlight>37</color> damage.
+[23:05:47] You slash Ksaravi Sentinel for <highlight>92 (78+14)</color> damage.
+[23:05:48] Your <highlight>Striking the Mountain II</color> hits Ksaravi Sentinel.
+[23:05:48] <blue>You exploit the armor chink weakness on Ksaravi Sentinel, stunning it.
+[23:05:48] You exploit the <highlight>armor chink</color> weakness on Ksaravi Sentinel, dealing additional damage.
+[23:05:48] Your <highlight>Striking the Mountain II</color> hits Ksaravi Sentinel for <highlight>214 (188+26)</color> damage.
+[23:05:48] Ksaravi Blight-mage begins to cast a spell.
+[23:05:49] The damage over time effect of your <highlight>Razor Parts Silk II</color> deals <highlight>100</color> damage to Ksaravi Sentinel.
+[23:05:50] You partially resisted Ksaravi Blight-mage's Poison Bolt.
+[23:05:50] Ksaravi Blight-mage's <highlight>Poison Bolt</color> hits you for <highlight>98</color> damage.
+[23:05:50] You dodge Ksaravi Blight-mage's attack.
+[23:05:51] Ksaravi Sentinel hits you for <highlight>35</color> damage.
+[23:05:52] Your <highlight>Sever the Tie II</color> hits Ksaravi Sentinel for <highlight>114 (97+17)</color> damage.
+[23:05:52] Ksaravi Blight-mage begins to cast a spell.
+[23:05:53] Ksaravi Sentinel hits you for <highlight>35</color> damage.
+[23:05:53] You slash Ksaravi Sentinel for <highlight>90 (74+16)</color> damage.
+[23:05:53] The damage over time effect of your <highlight>Razor Parts Silk II</color> deals <highlight>100</color> damage to Ksaravi Sentinel.
+[23:05:53] Your <highlight>Razor Parts Silk II</color> hits Ksaravi Sentinel.
+[23:05:53] The damage over time effect of your <highlight>Razor Parts Silk II</color> deals <highlight>147</color> damage to Ksaravi Sentinel.
+[23:05:54] Ksaravi Sentinel hits you for <highlight>37</color> damage.
+[23:05:56] You dodge Ksaravi Sentinel's attack.
+[23:05:57] Your <highlight>Razor Parts Silk II</color> hits Ksaravi Sentinel.
+[23:05:57] The damage over time effect of your <highlight>Razor Parts Silk II</color> deals <highlight>100</color> damage to Ksaravi Sentinel.
+[23:05:57] Ksaravi Sentinel hits you for <highlight>35</color> damage.
+[23:05:58] Ksaravi Blight-mage's <highlight>Shock of Disease</color> misses you!
+[23:05:58] Ksaravi Blight-mage begins to cast a spell.
+[23:05:59] Ksaravi Sentinel hits you for <highlight>37</color> damage.
+[23:05:59] You stop autoattacking.
+[23:06:00] You slash Ksaravi Sentinel for <highlight>99 (85+14)</color> damage.
+[23:06:00] You have slain Ksaravi Sentinel!
+=====================================Begin Kamp 6=========================================================================================
+[23:06:01] You begin autoattacking.
+[23:06:02] Your <highlight>Razor Parts Silk II</color> hits Ksaravi Blight-mage.
+[23:06:02] The damage over time effect of your <highlight>Razor Parts Silk II</color> deals <highlight>100</color> damage to Ksaravi Blight-mage.
+[23:06:02] You dodge Ksaravi Blight-mage's attack.
+[23:06:03] Ksaravi Blight-mage hits you for <highlight>36</color> damage.
+[23:06:05] You slash Ksaravi Blight-mage for <highlight>101 (89+12)</color> damage.
+[23:06:05] Ksaravi Blight-mage hits you for <highlight>35</color> damage.
+[23:06:06] The damage over time effect of your <highlight>Razor Parts Silk II</color> deals <highlight>99</color> damage to Ksaravi Blight-mage.
+[23:06:06] Your <highlight>Razor Parts Silk II</color> hits Ksaravi Blight-mage.
+[23:06:06] The damage over time effect of your <highlight>Razor Parts Silk II</color> deals <highlight>99</color> damage to Ksaravi Blight-mage.
+[23:06:06] Ksaravi Blight-mage begins to cast a spell.
+[23:06:08] You slash Ksaravi Blight-mage for <highlight>88 (72+16)</color> damage.
+[23:06:08] Ksaravi Blight-mage's <highlight>Poison Bolt</color> hits you for <highlight>106</color> damage.
+[23:06:08] Ksaravi Blight-mage hits you for <highlight>37</color> damage.
+[23:06:10] The damage over time effect of your <highlight>Razor Parts Silk II</color> deals <highlight>103</color> damage to Ksaravi Blight-mage.
+[23:06:10] Ksaravi Blight-mage hits you for <highlight>37</color> damage.
+[23:06:11] You slash Ksaravi Blight-mage for <highlight>98 (86+12)</color> damage.
+[23:06:11] Your <highlight>Razor Parts Silk II</color> hits Ksaravi Blight-mage.
+[23:06:11] The damage over time effect of your <highlight>Razor Parts Silk II</color> deals <highlight>101</color> damage to Ksaravi Blight-mage.
+[23:06:12] Ksaravi Blight-mage hits you for <highlight>35</color> damage.
+[23:06:13] Ksaravi Blight-mage hits you for <highlight>37</color> damage.
+[23:06:14] Your <highlight>Razor Parts Silk II</color> hits Ksaravi Blight-mage.
+[23:06:14] You stop autoattacking.
+=====================================Begin Kamp 7=========================================================================================
+[23:06:33] You begin autoattacking.
+[23:06:33] Your <highlight>Razor Parts Silk II</color> hits Ksaravi Sentinel.
+[23:06:33] The damage over time effect of your <highlight>Razor Parts Silk II</color> deals <highlight>69</color> damage to Ksaravi Sentinel.
+[23:06:35] Ksaravi Sentinel hits you for <highlight>36</color> damage.
+[23:06:36] Ksaravi Sentinel hits you for <highlight>35</color> damage.
+[23:06:36] You slash Ksaravi Sentinel for <highlight>93 (80+13)</color> damage.
+[23:06:36] Your <highlight>Sever the Tie II</color> hits Ksaravi Sentinel for <highlight>118 (103+15)</color> damage.
+[23:06:38] Ksaravi Sentinel misses you!
+[23:06:38] The damage over time effect of your <highlight>Razor Parts Silk II</color> deals <highlight>65</color> damage to Ksaravi Sentinel.
+[23:06:39] Ksaravi Sentinel hits you for <highlight>35</color> damage.
+[23:06:40] Your <highlight>Sever the Tie II</color> hits Ksaravi Sentinel for <highlight>122 (106+16)</color> damage.
+[23:06:40] Ksaravi Sentinel hits you for <highlight>36</color> damage.
+[23:06:41] Your <highlight>Striking the Mountain II</color> hits Ksaravi Sentinel for <highlight>180 (156+24)</color> damage.
+[23:06:41] The damage over time effect of your <highlight>Razor Parts Silk II</color> deals <highlight>66</color> damage to Ksaravi Sentinel.
+[23:06:42] Ksaravi Sentinel hits you for <highlight>36</color> damage.
+[23:06:43] You slash Ksaravi Sentinel for <highlight>90 (74+16)</color> damage.
+[23:06:44] Ksaravi Sentinel hits you for <highlight>35</color> damage.
+[23:06:45] Ksaravi Sentinel hits you for <highlight>36</color> damage.
+[23:06:46] The damage over time effect of your <highlight>Razor Parts Silk II</color> deals <highlight>68</color> damage to Ksaravi Sentinel.
+[23:06:46] You slash Ksaravi Sentinel for <highlight>97 (84+13)</color> damage.
+[23:06:47] Ksaravi Sentinel hits you for <highlight>35</color> damage.
+[23:06:48] Your <highlight>Sever the Tie II</color> hits Ksaravi Sentinel for <highlight>123 (106+17)</color> damage.
+[23:06:48] Ksaravi Sentinel hits you for <highlight>36</color> damage.
+[23:06:50] You stop autoattacking.
+=====================================Begin Kamp 8=========================================================================================
+[23:07:23] You begin autoattacking.
+[23:07:23] Your <highlight>Razor Parts Silk II</color> hits Ksaravi Miasma-Sage.
+[23:07:23] The damage over time effect of your <highlight>Razor Parts Silk II</color> deals <highlight>64</color> damage to Ksaravi Miasma-Sage.
+[23:07:24] You dodge Ksaravi Fang's attack.
+[23:07:24] Ksaravi Miasma-Sage hits you for <highlight>41</color> damage.
+[23:07:25] Ksaravi Fang hits you for <highlight>42</color> damage.
+[23:07:25] Ksaravi Miasma-Sage begins to cast a spell.
+[23:07:27] Ksaravi Fang hits you for <highlight>42</color> damage.
+[23:07:27] Your <highlight>Razor Parts Silk II</color> hits Ksaravi Miasma-Sage.
+[23:07:27] The damage over time effect of your <highlight>Razor Parts Silk II</color> deals <highlight>145</color> damage to Ksaravi Miasma-Sage.
+[23:07:28] Ksaravi Miasma-Sage's <highlight>Lesser Mystic Bolt</color> misses you!
+[23:07:28] You dodge Ksaravi Miasma-Sage's attack.
+[23:07:28] Ksaravi Fang hits you for <highlight>42</color> damage.
+[23:07:29] Ksaravi Miasma-Sage hits you for <highlight>40</color> damage.
+[23:07:30] Ksaravi Fang hits you for <highlight>42</color> damage.
+[23:07:31] Critical hit for an additional <highlight>106</color> points!
+[23:07:31] Your <highlight>Striking the Mountain II</color> hits Ksaravi Miasma-Sage.
+[23:07:31] <blue>You exploit the armor chink weakness on Ksaravi Miasma-Sage, stunning it.
+[23:07:31] You exploit the <highlight>armor chink</color> weakness on Ksaravi Miasma-Sage, dealing additional damage.
+[23:07:31] Your <highlight>Striking the Mountain II</color> hits Ksaravi Miasma-Sage for <highlight>318 (279+39)</color> damage.
+[23:07:32] Ksaravi Miasma-Sage begins to cast a spell.
+[23:07:32] The damage over time effect of your <highlight>Razor Parts Silk II</color> deals <highlight>98</color> damage to Ksaravi Miasma-Sage.
+[23:07:32] Ksaravi Fang hits you for <highlight>42</color> damage.
+[23:07:33] Ksaravi Fang hits you for <highlight>43</color> damage.
+[23:07:33] Your <highlight>Razor Parts Silk II</color> hits Ksaravi Miasma-Sage.
+[23:07:33] The damage over time effect of your <highlight>Razor Parts Silk II</color> deals <highlight>100</color> damage to Ksaravi Miasma-Sage.
+[23:07:35] You dodge Ksaravi Fang's attack.
+[23:07:36] Ksaravi Miasma-Sage hits you for <highlight>40</color> damage.
+[23:07:36] You slash Ksaravi Miasma-Sage for <highlight>96 (83+13)</color> damage.
+[23:07:36] Ksaravi Fang hits you for <highlight>43</color> damage.
+[23:07:36] Your <highlight>Razor Parts Silk II</color> hits Ksaravi Miasma-Sage.
+[23:07:36] The damage over time effect of your <highlight>Razor Parts Silk II</color> deals <highlight>146</color> damage to Ksaravi Miasma-Sage.
+[23:07:37] Ksaravi Miasma-Sage begins to cast a spell.
+[23:07:38] Ksaravi Fang hits you for <highlight>41</color> damage.
+[23:07:38] Your <highlight>Hewing the Mountain I</color> misses Ksaravi Miasma-Sage!
+[23:07:39] Ksaravi Fang hits you for <highlight>43</color> damage.
+[23:07:40] You stop autoattacking.
+=======================================gestorben================================================
+[23:08:47] You have been slain by Infected Fang!
+=====================================Begin Kamp 9=========================================================================================
+[23:07:42] You begin autoattacking.
+[23:07:42] Your <highlight>Razor Parts Silk II</color> hits Ksaravi Fang.
+[23:07:42] The damage over time effect of your <highlight>Razor Parts Silk II</color> deals <highlight>97</color> damage to Ksaravi Fang.
+[23:07:42] Ksaravi Fang misses you!
+[23:07:44] Ksaravi Fang hits you for <highlight>43</color> damage.
+[23:07:44] You slash Ksaravi Fang for <highlight>90 (74+16)</color> damage.
+[23:07:45] Your <highlight>Sever the Tie II</color> hits Ksaravi Fang for <highlight>122 (105+17)</color> damage.
+[23:07:45] Ksaravi Fang hits you for <highlight>43</color> damage.
+[23:07:46] The damage over time effect of your <highlight>Razor Parts Silk II</color> deals <highlight>99</color> damage to Ksaravi Fang.
+[23:07:47] Ksaravi Fang hits you for <highlight>42</color> damage.
+[23:07:49] Ksaravi Fang hits you for <highlight>42</color> damage.
+[23:07:49] You slash Ksaravi Fang for <highlight>90 (74+16)</color> damage.
+[23:07:50] The damage over time effect of your <highlight>Razor Parts Silk II</color> deals <highlight>98</color> damage to Ksaravi Fang.
+[23:07:50] Ksaravi Fang hits you for <highlight>43</color> damage.
+[23:07:51] You slash Ksaravi Fang for <highlight>91 (75+16)</color> damage.
+[23:07:52] Ksaravi Fang hits you for <highlight>38</color> damage.
+[23:07:52] Your <highlight>Thread the Needle I</color> hits Ksaravi Fang for <highlight>92 (76+16)</color> damage.
+[23:07:53] Ksaravi Fang hits you for <highlight>38</color> damage.
+[23:07:54] Your <highlight>Striking the Mountain II</color> hits Ksaravi Fang for <highlight>175 (148+27)</color> damage.
+[23:07:54] You stop autoattacking.
+=====================================Begin Kamp 10=========================================================================================
+[23:08:26] You begin autoattacking.
+[23:08:26] Your <highlight>Razor Parts Silk II</color> hits Ksaravi Guardian.
+[23:08:26] The damage over time effect of your <highlight>Razor Parts Silk II</color> deals <highlight>66</color> damage to Ksaravi Guardian.
+[23:08:26] Ksaravi Guardian hits you for <highlight>41</color> damage.
+[23:08:28] Ksaravi Guardian hits you for <highlight>39</color> damage.
+[23:08:29] You slash Ksaravi Guardian for <highlight>94 (81+13)</color> damage.
+[23:08:29] You parry Ksaravi Guardian's attack.
+[23:08:30] Your <highlight>Sever the Tie II</color> hits Ksaravi Guardian for <highlight>114 (94+20)</color> damage.
+[23:08:30] The damage over time effect of your <highlight>Razor Parts Silk II</color> deals <highlight>64</color> damage to Ksaravi Guardian.
+[23:08:31] Ksaravi Guardian misses you!
+[23:08:33] Your <highlight>Striking the Mountain II</color> hits Ksaravi Guardian.
+[23:08:33] <blue>You exploit the armor chink weakness on Ksaravi Guardian, stunning it.
+[23:08:33] You exploit the <highlight>armor chink</color> weakness on Ksaravi Guardian, dealing additional damage.
+[23:08:33] Your <highlight>Striking the Mountain II</color> hits Ksaravi Guardian for <highlight>204 (173+31)</color> damage.
+[23:08:34] Ksaravi Guardian hits you for <highlight>39</color> damage.
+[23:08:34] Vile Fang hits Ryst Vule for <highlight>75</color> damage.
+[23:08:34] Infected Fang hits you for <highlight>101</color> damage.
+[23:08:34] The damage over time effect of your <highlight>Razor Parts Silk II</color> deals <highlight>65</color> damage to Ksaravi Guardian.
+[23:08:35] You slash Ksaravi Guardian for <highlight>95 (82+13)</color> damage.
+[23:08:35] Ksaravi Guardian misses you!
+======================================Falldamage===============================================
+[23:05:13] You fall and take 1 damage!
+[23:08:35] Your <highlight>Razor Parts Silk II</color> hits Ksaravi Guardian.
+[23:08:35] The damage over time effect of your <highlight>Razor Parts Silk II</color> deals <highlight>100</color> damage to Ksaravi Guardian.
+[23:08:36] Infected Fang hits you for <highlight>101</color> damage.
+[23:08:36] Vile Fang's <highlight>Ravaging Bite</color> hits Ryst Vule for <highlight>45</color> damage.
+[23:08:37] Ksaravi Guardian hits you for <highlight>40</color> damage.
+[23:08:38] Ksaravi Guardian misses you!
+[23:08:38] Infected Fang's <highlight>Ravaging Bite</color> hits you for <highlight>64</color> damage.
+[23:08:39] Vile Fang hits Ryst Vule for <highlight>75</color> damage.
+[23:08:39] Your <highlight>Thread the Needle I</color> hits Ksaravi Guardian for <highlight>92 (81+11)</color> damage.
+[23:08:39] The damage over time effect of your <highlight>Razor Parts Silk II</color> deals <highlight>100</color> damage to Ksaravi Guardian.
+[23:08:40] Ksaravi Guardian hits you for <highlight>35</color> damage.
+[23:08:41] You slash Ksaravi Guardian for <highlight>92 (78+14)</color> damage.
+[23:08:41] Vile Fang hits Ryst Vule for <highlight>74</color> damage.
+[23:08:41] Infected Fang hits you for <highlight>103</color> damage.
+[23:08:41] Your <highlight>Razor Parts Silk II</color> hits Ksaravi Guardian.
+[23:08:41] The damage over time effect of your <highlight>Razor Parts Silk II</color> deals <highlight>99</color> damage to Ksaravi Guardian.
+[23:08:41] Ksaravi Guardian hits you for <highlight>36</color> damage.
+[23:08:43] Vile Fang hits Ryst Vule for <highlight>76</color> damage.
+[23:08:43] You parry Ksaravi Guardian's attack.
+[23:08:43] Infected Fang hits you for <highlight>106</color> damage.
+[23:08:44] You dodge Ksaravi Guardian's attack.
+[23:08:45] Vile Fang hits Ryst Vule for <highlight>75</color> damage.
+[23:08:45] You stop autoattacking.
+[23:08:45] Infected Fang hits you for <highlight>101</color> damage.
+[23:08:46] You slash Ksaravi Guardian for <highlight>96 (84+12)</color> damage.
+[23:08:46] You have slain Ksaravi Guardian!
+=======================================gestorben================================================
+[23:10:56] You have been slain by Infected Fang!
+=======================================skill up================================================
+[23:10:04] [23:10:04] Your skill in Lumberjacking has increased to 1!
+[23:10:04] [23:10:04] Your skill in Lumberjacking has increased to 2!
+[23:10:04] [23:10:04] Your skill in Lumberjacking has increased to 3!
+[23:10:04] [23:10:04] Your skill in Lumberjacking has increased to 4!
+[23:10:04] [23:10:04] Your skill in Lumberjacking has increased to 5!
+[23:10:04] [23:10:04] Your skill in Harvesting has increased to 1!
+[23:10:04] [23:10:04] Your skill in Harvesting has increased to 2!
+[23:10:04] [23:10:04] Your skill in Harvesting has increased to 3!
+[23:10:04] [23:10:04] Your skill in Harvesting has increased to 4!
+[23:10:04] [23:10:04] Your skill in Harvesting has increased to 5!
