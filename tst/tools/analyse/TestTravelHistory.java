@@ -21,7 +21,7 @@ public class TestTravelHistory {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Map<Integer, String> log = new LogLoader(new File(
-				"E:\\Vanguard\\logs\\Chat_log_2013_0214_2013.txt")).getLog();
+				"log/Demo01_log.txt")).getLog();
 		Map<Integer, String> clog = new DeleteTimeStamp(log).getClearLog();
 		Map<Integer, String> hist = new TravelHistory(clog).getTravelHistory();
 		for (int i = 0; i < hist.size(); i++) {

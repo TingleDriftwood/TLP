@@ -20,7 +20,7 @@ public class TestLoadLog {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		log = new LogLoader(new File("E:\\Vanguard\\logs\\Chat_log_2013_0214_2013.txt"));
+		log = new LogLoader(new File("log/Demo01_log.txt"));
 		map = log.getLog();
 		System.out.println("Anzahl eingelesener Zeilen:");
 		System.out.println(map.size());

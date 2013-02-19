@@ -21,7 +21,7 @@ public class TestKillList {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Map<Integer, String> log = new LogLoader(new File(
-				"E:\\Vanguard\\logs\\Chat_log_2013_0214_2013.txt")).getLog();
+				"log/Demo01_log.txt")).getLog();
 		Map<Integer, String> clog = new DeleteTimeStamp(log).getClearLog();
 		Map<Integer, String> kill = new KillList(clog).GetKillList();
 		for (int i = 0; i < kill.size(); i++) {

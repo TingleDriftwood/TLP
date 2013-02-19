@@ -20,7 +20,7 @@ public class TestCombatCounter {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Map<Integer, String> log = new LogLoader(new File("E:\\Vanguard\\logs\\Chat_log_2013_0214_2013.txt")).getLog();
+		Map<Integer, String> log = new LogLoader(new File("log/Demo01_log.txt")).getLog();
 		Map<Integer, String> clog = new DeleteTimeStamp(log).getClearLog();
 		CombatCounter cc = new CombatCounter(clog);
 		System.out.println(cc.getCombatCounts());
