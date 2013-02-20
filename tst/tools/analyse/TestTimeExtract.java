@@ -12,7 +12,7 @@ import tools.io.LogLoader;
  * @author Tingle Driftwood
  *
  */
-public class TestDateExtract {
+public class TestTimeExtract {
 
 	/**
 	 * @param args
@@ -20,8 +20,7 @@ public class TestDateExtract {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Map<Integer, String> log = new LogLoader(new File("log/Demo01_log.txt")).getLog();
-		new DateExtract(log);
-		System.out.println(new DateExtract(log).getStartDatum());
+		System.out.println(new TimeExtract(log,5).getTime());
 	}
 
 }

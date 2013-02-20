@@ -14,7 +14,7 @@ import java.util.Map;
  */
 public class DateExtract {
 
-	public Date startZeit;
+	public Date startDatum;
 
 	public DateExtract(Map<Integer, String> log) {
 		String line = log.get(0);
@@ -24,11 +24,11 @@ public class DateExtract {
 		cal.set(Integer.valueOf(line.substring(0, 4)),
 				Integer.valueOf(line.substring(5, 7)) - 1,
 				Integer.valueOf(line.substring(7, 9)), 0, 0, 0);
-		startZeit = cal.getTime();
+		startDatum = cal.getTime();
 	}
 
-	public Date getStartZeit() {
-		return startZeit;
+	public Date getStartDatum() {
+		return startDatum;
 	}
 
 }
