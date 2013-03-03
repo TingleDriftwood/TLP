@@ -23,12 +23,14 @@ Kind regards
 
 *Full working classes*
 
-- tools.analyse
+**tools.analyse**
 CombatCounter
 DateExract
 KillList
 TravelHistory
-- tools.io
+
+**tools.io**
 LogLoader
-- tools.log
+
+**tools.log**
 DeleteTimeStamp
