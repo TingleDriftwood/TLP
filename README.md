@@ -23,11 +23,11 @@ Kind regards
 
 *Full working classes*
 
-**tools.analyse**
-CombatCounter
-DateExract
-KillList
-TravelHistory
+**tools.analyse**  
+CombatCounter  
+DateExract  
+KillList  
+TravelHistory  
 
 **tools.io**
 LogLoader
