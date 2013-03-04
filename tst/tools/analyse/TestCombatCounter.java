@@ -6,6 +6,7 @@ package tools.analyse;
 import java.io.File;
 import java.util.Map;
 
+import tools.analyse.combat.CombatCounter;
 import tools.io.LogLoader;
 import tools.log.DeleteTimeStamp;
 
