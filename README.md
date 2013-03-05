@@ -27,10 +27,10 @@ Kind regards
 CombatCounter  
 DateExract  
 KillList  
-TravelHistory  
+TravelHistory
 
-**tools.io**
+**tools.io**  
 LogLoader
 
-**tools.log**
+**tools.log**  
 DeleteTimeStamp
