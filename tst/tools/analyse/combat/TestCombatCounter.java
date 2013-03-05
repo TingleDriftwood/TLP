@@ -1,7 +1,7 @@
 /**
  * 
  */
-package tools.analyse;
+package tools.analyse.combat;
 
 import java.io.File;
 import java.util.Map;
