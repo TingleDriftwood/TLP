@@ -20,7 +20,9 @@ public class SeperateCombatX {
 			line = log.get(i);
 			if (line.equals("You begin autoattacking.")) {
 				counter++;
-				
+				if (counter==x){
+					
+				}
 			}
 		}
 	}
