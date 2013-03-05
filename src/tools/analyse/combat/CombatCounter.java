@@ -5,7 +5,7 @@
  * and
  * You stop autoattacking.
  */
-package tools.analyse;
+package tools.analyse.combat;
 
 import java.util.Map;
 

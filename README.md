@@ -1,6 +1,5 @@
-**************************************************************************
-*                      Tingle's Vanguard Log Parser                      *
-**************************************************************************
+
+## Tingle's Vanguard Log Parser
 
 Tingle's Vanguard Log Parser is a small project to improve my Java skills.
 
@@ -16,4 +15,22 @@ of other stuff which I should do in my free time.
 
 Kind regards
 
-Tingle Driftwood (known on a few MMORPG)  
+**Tingle Driftwood** *(known on a few MMORPG)*
+
+## Progress
+
+**March 3rd 2013**
+
+*Full working classes*
+
+**tools.analyse**  
+CombatCounter  
+DateExract  
+KillList  
+TravelHistory  
+
+**tools.io**
+LogLoader
+
+**tools.log**
+DeleteTimeStamp
