@@ -21,11 +21,25 @@ Kind regards
 
 **March 3rd 2013**
 
+Finished first classes and added progress structure to project.
+
+**March 30st 2013**
+
+Added CountIncomingDamage class to project. Started with first basic GUI
+functionality.
+
 *Full working classes*
+
+**gui.main**
+
+**gui.menu**
+
+**gui.window**
 
 **tools.analyse**  
 CombatCounter  
 DateExract  
+CountIncommingDamage  
 KillList  
 TravelHistory
 
