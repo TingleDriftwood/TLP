@@ -1,5 +1,5 @@
 [23:02:29] Now logging to ..\logs\Chat_log_2013_0211_2302.txt.
-=====================================Begin Kamp 1=========================================================================================
+=====================================Begin Kampf 1=========================================================================================
 [06:38:37] You begin autoattacking.
 [06:38:37] Your <highlight>Razor Parts Silk II</color> hits Infected Fang.
 [06:38:37] The damage over time effect of your <highlight>Razor Parts Silk II</color> deals <highlight>63</color> damage to Infected Fang.
@@ -31,7 +31,7 @@
 [06:38:59] You stop autoattacking.
 [06:39:00] Your <highlight>Sever the Tie II</color> hits Infected Fang for <highlight>122 (104+18)</color> damage.
 [06:39:00] You have slain Infected Fang!
-=====================================Begin Kamp 2=========================================================================================
+=====================================Begin Kampf 2=========================================================================================
 [06:41:27] You begin autoattacking.
 [06:41:27] Your <highlight>Razor Parts Silk II</color> hits Ksaravi Venom-mage.
 [06:41:27] The damage over time effect of your <highlight>Razor Parts Silk II</color> deals <highlight>94</color> damage to Ksaravi Venom-mage.
@@ -57,7 +57,7 @@
 [06:41:41] You stop autoattacking.
 [06:41:42] Your <highlight>Sever the Tie II</color> hits Ksaravi Venom-mage for <highlight>125 (110+15)</color> damage.
 [06:41:42] You have slain Ksaravi Venom-mage!
-=====================================Begin Kamp 3=========================================================================================
+=====================================Begin Kampf 3=========================================================================================
 [06:44:19] You begin autoattacking.
 [06:44:20] Ksaravi Fang hits you for <highlight>37</color> damage.
 [06:44:20] Your <highlight>Sever the Tie II</color> hits Ksaravi Fang for <highlight>119 (101+18)</color> damage.
@@ -68,7 +68,7 @@
 [06:44:23] You stop autoattacking.
 [06:44:24] You slash Ksaravi Fang for <highlight>94 (81+13)</color> damage.
 [06:44:24] You have slain Ksaravi Fang!
-=====================================Begin Kamp 4=========================================================================================
+=====================================Begin Kampf 4=========================================================================================
 [23:05:21] You begin autoattacking.
 [23:05:21] Your <highlight>Razor Parts Silk II</color> hits Ksaravi Blight-mage.
 [23:05:21] The damage over time effect of your <highlight>Razor Parts Silk II</color> deals <highlight>99</color> damage to Ksaravi Blight-mage.
@@ -87,7 +87,7 @@
 [23:05:29] You slash Ksaravi Blight-mage for <highlight>92 (76+16)</color> damage.
 [23:05:31] Your <highlight>Sever the Tie II</color> hits Ksaravi Blight-mage for <highlight>124 (109+15)</color> damage.
 [23:05:31] You have slain Ksaravi Blight-mage!
-=====================================Begin Kamp 5=========================================================================================
+=====================================Begin Kampf 5=========================================================================================
 [23:05:45] You begin autoattacking.
 [23:05:45] Your <highlight>Razor Parts Silk II</color> hits Ksaravi Sentinel.
 [23:05:45] The damage over time effect of your <highlight>Razor Parts Silk II</color> deals <highlight>96</color> damage to Ksaravi Sentinel.
@@ -124,7 +124,7 @@
 [23:05:59] You stop autoattacking.
 [23:06:00] You slash Ksaravi Sentinel for <highlight>99 (85+14)</color> damage.
 [23:06:00] You have slain Ksaravi Sentinel!
-=====================================Begin Kamp 6=========================================================================================
+=====================================Begin Kampf 6=========================================================================================
 [23:06:01] You begin autoattacking.
 [23:06:02] Your <highlight>Razor Parts Silk II</color> hits Ksaravi Blight-mage.
 [23:06:02] The damage over time effect of your <highlight>Razor Parts Silk II</color> deals <highlight>100</color> damage to Ksaravi Blight-mage.
@@ -148,7 +148,7 @@
 [23:06:13] Ksaravi Blight-mage hits you for <highlight>37</color> damage.
 [23:06:14] Your <highlight>Razor Parts Silk II</color> hits Ksaravi Blight-mage.
 [23:06:14] You stop autoattacking.
-=====================================Begin Kamp 7=========================================================================================
+=====================================Begin Kampf 7=========================================================================================
 [23:06:33] You begin autoattacking.
 [23:06:33] Your <highlight>Razor Parts Silk II</color> hits Ksaravi Sentinel.
 [23:06:33] The damage over time effect of your <highlight>Razor Parts Silk II</color> deals <highlight>69</color> damage to Ksaravi Sentinel.
@@ -173,7 +173,7 @@
 [23:06:48] Your <highlight>Sever the Tie II</color> hits Ksaravi Sentinel for <highlight>123 (106+17)</color> damage.
 [23:06:48] Ksaravi Sentinel hits you for <highlight>36</color> damage.
 [23:06:50] You stop autoattacking.
-=====================================Begin Kamp 8=========================================================================================
+=====================================Begin Kampf 8=========================================================================================
 [23:07:23] You begin autoattacking.
 [23:07:23] Your <highlight>Razor Parts Silk II</color> hits Ksaravi Miasma-Sage.
 [23:07:23] The damage over time effect of your <highlight>Razor Parts Silk II</color> deals <highlight>64</color> damage to Ksaravi Miasma-Sage.
@@ -213,7 +213,7 @@
 [23:07:40] You stop autoattacking.
 =======================================gestorben================================================
 [23:08:47] You have been slain by Infected Fang!
-=====================================Begin Kamp 9=========================================================================================
+=====================================Begin Kampf 9=========================================================================================
 [23:07:42] You begin autoattacking.
 [23:07:42] Your <highlight>Razor Parts Silk II</color> hits Ksaravi Fang.
 [23:07:42] The damage over time effect of your <highlight>Razor Parts Silk II</color> deals <highlight>97</color> damage to Ksaravi Fang.
@@ -234,7 +234,7 @@
 [23:07:53] Ksaravi Fang hits you for <highlight>38</color> damage.
 [23:07:54] Your <highlight>Striking the Mountain II</color> hits Ksaravi Fang for <highlight>175 (148+27)</color> damage.
 [23:07:54] You stop autoattacking.
-=====================================Begin Kamp 10=========================================================================================
+=====================================Begin Kampf 10=========================================================================================
 [23:08:26] You begin autoattacking.
 [23:08:26] Your <highlight>Razor Parts Silk II</color> hits Ksaravi Guardian.
 [23:08:26] The damage over time effect of your <highlight>Razor Parts Silk II</color> deals <highlight>66</color> damage to Ksaravi Guardian.
