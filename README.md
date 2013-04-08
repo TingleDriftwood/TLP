@@ -23,10 +23,14 @@ Kind regards
 
 Finished first classes and added progress structure to project.
 
-**March 30st 2013**
+**March 30th 2013**
 
 Added CountIncomingDamage class to project. Started with first basic GUI
 functionality.
+
+**March 31st 2013**
+
+Added SlashingDamage class to project.
 
 *Full working classes*
 
