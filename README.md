@@ -32,7 +32,7 @@ functionality.
 
 Added SlashingDamage class to project.
 
-*Full working classes*
+## Full working classes
 
 **gui.main**
 
