@@ -32,6 +32,10 @@ functionality.
 
 Added SlashingDamage class to project.
 
+**April 16th 2013**
+
+Starting with first GUI implementation.
+
 ## Full working classes
 
 **gui.main**
