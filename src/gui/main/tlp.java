@@ -50,30 +50,33 @@ public class TLP extends Application {
 
 		border = new BorderPane();
 
+		// Start of demo section
 		LogLoader log = new LogLoader(new File("log/Demo01_log.txt"));
 		Map<Integer, String> map = log.getLog();
 
 		String str = new String();
 
 		for (int i = 0; i < map.size(); i++) {
-			if (i>0) { 
+			if (i > 0) {
 				str += "\n";
 			}
 			str += map.get(i);
 		}
 		TextArea tf = new TextArea(str);
 		border.setCenter(tf);
+		// End of demo section
+
+		File file = new File("");
 		
+		// Define and set the menu bar
 		MainMenu menu = new MainMenu();
-		
-		menu.addMenu(new FileMenu(win).getFileMenu());
-		
+		menu.addMenu(new FileMenu(win, file).getFileMenu());
+
 		MenuBar menuBar = new MenuBar();
-		
 		menuBar = menu.getMenuBar();
-		
+
 		border.setTop(menuBar);
-		
+
 		win.setScene(new Scene(border));
 		win.show();
 	}

@@ -3,6 +3,9 @@
  */
 package gui.menuitem;
 
+import java.io.File;
+
+import gui.action.menu.LoadListener;
 import javafx.scene.control.MenuItem;
 
 /**
@@ -13,8 +16,9 @@ public class LoadItem {
 
 	private MenuItem loadItem;
 
-	public LoadItem() {
+	public LoadItem(File file) {
 		loadItem = new MenuItem("Load");
+		loadItem.setOnAction(new LoadListener(file));
 	}
 
 	public MenuItem getLoadItem() {

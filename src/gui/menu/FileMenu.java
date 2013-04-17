@@ -3,6 +3,8 @@
  */
 package gui.menu;
 
+import java.io.File;
+
 import gui.menuitem.ExitItem;
 import gui.menuitem.LoadItem;
 import gui.menuitem.SaveItem;
@@ -17,10 +19,10 @@ public class FileMenu {
 
 	Menu fileMenu;
 
-	public FileMenu(Stage primaryStage) {
+	public FileMenu(Stage primaryStage, File file) {
 		fileMenu = new Menu("File");
 
-		fileMenu.getItems().addAll(new LoadItem().getLoadItem(),
+		fileMenu.getItems().addAll(new LoadItem(file).getLoadItem(),
 				new SaveItem().getSaveItem(),
 				new ExitItem(primaryStage).getExitItem());
 	}
