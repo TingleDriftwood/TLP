@@ -3,6 +3,9 @@
  */
 package gui.main;
 
+import gui.menu.FileMenu;
+import gui.menu.MainMenu;
+
 import java.io.File;
 import java.util.Map;
 
@@ -10,6 +13,7 @@ import tools.io.LogLoader;
 
 import javafx.application.Application;
 import javafx.scene.Scene;
+import javafx.scene.control.MenuBar;
 import javafx.scene.control.TextArea;
 import javafx.scene.layout.BorderPane;
 import javafx.scene.layout.StackPane;
@@ -59,7 +63,17 @@ public class TLP extends Application {
 		}
 		TextArea tf = new TextArea(str);
 		border.setCenter(tf);
-
+		
+		MainMenu menu = new MainMenu();
+		
+		menu.addMenu(new FileMenu(win).getFileMenu());
+		
+		MenuBar menuBar = new MenuBar();
+		
+		menuBar = menu.getMenuBar();
+		
+		border.setTop(menuBar);
+		
 		win.setScene(new Scene(border));
 		win.show();
 	}

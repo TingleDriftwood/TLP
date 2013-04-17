@@ -16,7 +16,6 @@ public class MainMenu {
 
 	public MainMenu() {
 		bar = new MenuBar();
-		
 	}
 	
 	public MenuBar getMenuBar() {
