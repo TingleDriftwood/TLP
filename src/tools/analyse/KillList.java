@@ -11,7 +11,7 @@ import java.util.Map;
  * 
  */
 public class KillList {
-
+	
 	Map<Integer, String> killList;
 
 	public KillList(Map<Integer, String> clog) {

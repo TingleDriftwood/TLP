@@ -1,38 +1,32 @@
 /**
- * Main method of Tingles Log Parser. 
+ * 
  */
 package gui.main;
 
-import gui.menu.FileMenu;
-import gui.menu.MainMenu;
-
-import java.io.File;
+import java.util.HashMap;
 import java.util.Map;
 
-import tools.io.LogLoader;
+import gui.menu.FileMenu;
+import gui.menu.SideMenu;
 
 import javafx.application.Application;
+
 import javafx.scene.Scene;
 import javafx.scene.control.MenuBar;
-import javafx.scene.control.TextArea;
 import javafx.scene.layout.BorderPane;
-import javafx.scene.layout.StackPane;
+
 import javafx.stage.Stage;
 
 /**
  * @author Tingle Driftwood
- * 
+ *
  */
 public class TLP extends Application {
-
+	
 	private BorderPane border;
+	private Map<Integer, String> log;
 
-	private StackPane leftPane;
-	private StackPane centerPane;
-	private StackPane rightPane;
-	private StackPane bottomPane;
-
-	private Stage win;
+	private Stage primaryStage;
 
 	/**
 	 * @param args
@@ -43,69 +37,37 @@ public class TLP extends Application {
 	}
 
 	@Override
-	public void start(Stage arg0) throws Exception {
+	public void start(Stage primaryStage) throws Exception {
 		// TODO Auto-generated method stub
-		win = new Stage();
-		win.setTitle("Tingle's Log Parser");
-
+		this.primaryStage=primaryStage;
 		border = new BorderPane();
-
-		// Start of demo section
-		LogLoader log = new LogLoader(new File("log/Demo01_log.txt"));
-		Map<Integer, String> map = log.getLog();
-
-		String str = new String();
-
-		for (int i = 0; i < map.size(); i++) {
-			if (i > 0) {
-				str += "\n";
-			}
-			str += map.get(i);
-		}
-		TextArea tf = new TextArea(str);
-		border.setCenter(tf);
-		// End of demo section
-
-		File file = new File("");
+		log = new HashMap<Integer, String>();
 		
-		// Define and set the menu bar
-		MainMenu menu = new MainMenu();
-		menu.addMenu(new FileMenu(win, file).getFileMenu());
+		MenuBar menu = new MenuBar();
+		menu.getMenus().addAll(new FileMenu(this.primaryStage, this).getFileMenu());
+		
+		SideMenu side = new SideMenu(border, this);
+		
+		border.setTop(menu);
+		border.setLeft(side.getSideMenu());
 
-		MenuBar menuBar = new MenuBar();
-		menuBar = menu.getMenuBar();
+		Scene scene = new Scene(border);
 
-		border.setTop(menuBar);
-
-		win.setScene(new Scene(border));
-		win.show();
+		primaryStage.setTitle("Tingle's Log Parser");
+		primaryStage.setScene(scene);
+		primaryStage.setHeight(300);
+		primaryStage.show();
+	}
+	
+	public Map<Integer, String> getLog() {
+		return log;
 	}
 
-	public void setLeftPane(StackPane leftPane) {
-		this.leftPane = leftPane;
-		border.setLeft(this.leftPane);
-		win.sizeToScene();
-		win.show();
+	public void setLog(Map<Integer, String> log) {
+		this.log = log;
 	}
 
-	public void setCenterPane(StackPane centerPane) {
-		this.centerPane = centerPane;
-		border.setCenter(this.centerPane);
-		win.sizeToScene();
-		win.show();
-	}
-
-	public void setRightPane(StackPane rightPane) {
-		this.rightPane = rightPane;
-		border.setRight(this.rightPane);
-		win.sizeToScene();
-		win.show();
-	}
-
-	public void setBottomPane(StackPane bottomPane) {
-		this.bottomPane = bottomPane;
-		border.setBottom(this.bottomPane);
-		win.sizeToScene();
-		win.show();
+	public BorderPane getBorderPane(){
+		return border;
 	}
 }

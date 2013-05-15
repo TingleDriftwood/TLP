@@ -3,22 +3,23 @@
  */
 package gui.menuitem;
 
-import java.io.File;
-
 import gui.action.menu.LoadListener;
+import gui.main.TLP;
+
 import javafx.scene.control.MenuItem;
+import javafx.scene.layout.BorderPane;
 
 /**
- * @author Tingle Driftwood
+ * @author mweigert
  * 
  */
 public class LoadItem {
 
-	private MenuItem loadItem;
+	MenuItem loadItem;
 
-	public LoadItem(File file) {
+	public LoadItem(BorderPane border, TLP tlp) {
 		loadItem = new MenuItem("Load");
-		loadItem.setOnAction(new LoadListener(file));
+		loadItem.setOnAction(new LoadListener(border, tlp));
 	}
 
 	public MenuItem getLoadItem() {

@@ -16,7 +16,7 @@ public class SpellUsed {
 	
 	public SpellUsed(Map<Integer, String> log) {
 		this.log = log;
-		int nr;
+//		int nr;
 		for(int i=0;i<log.size();i++){
 			
 		}
