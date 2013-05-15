@@ -9,6 +9,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 import tools.analyse.KillList;
+import tools.log.DeleteTimeStamp;
 
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
@@ -37,15 +38,19 @@ public class KillsListener implements EventHandler<ActionEvent> {
 		String info = new String();
 		log = new HashMap<Integer, String>();
 		log = tlp.getLog();
-		
-		KillList klist = new KillList(log);
-		Map<Integer, String> kills = klist.GetKillList();
-		
+
+		Map<Integer, String> kills = new HashMap<Integer, String>();
+		Map<Integer, String> clog = new DeleteTimeStamp(log).getClearLog();
+		KillList klist = new KillList(clog);
+		kills = klist.GetKillList();
+		System.out.println("Kills:"+kills.size());
+
 		for (int i = 0; i < kills.size(); i++) {
 			if (i > 0) {
 				info += "\n";
 			}
 			info += kills.get(i);
+			System.out.println(i);
 		}
 
 		TextArea text = new TextArea(info);
