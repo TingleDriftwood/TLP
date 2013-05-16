@@ -6,7 +6,8 @@ package tools.analyse;
 import java.io.File;
 import java.util.Map;
 
-import tools.io.LogLoader;
+import van.tools.analyse.TimeExtract;
+import van.tools.io.LogLoader;
 
 /**
  * @author Tingle Driftwood

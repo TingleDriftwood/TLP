@@ -6,9 +6,9 @@ package tools.analyse.combat;
 import java.io.File;
 import java.util.Map;
 
-import tools.analyse.combat.CombatCounter;
-import tools.io.LogLoader;
-import tools.log.DeleteTimeStamp;
+import van.tools.analyse.combat.CombatCounter;
+import van.tools.io.LogLoader;
+import van.tools.log.DeleteTimeStamp;
 
 /**
  * @author Bunny

@@ -6,7 +6,8 @@ package tools.log;
 import java.io.File;
 import java.util.Map;
 
-import tools.io.LogLoader;
+import van.tools.io.LogLoader;
+import van.tools.log.DeleteTimeStamp;
 
 /**
  * @author Tingle Driftwood

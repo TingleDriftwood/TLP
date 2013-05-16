@@ -6,8 +6,9 @@ package tools.analyse.combat;
 import java.io.File;
 import java.util.Map;
 
-import tools.io.LogLoader;
-import tools.log.DeleteTimeStamp;
+import van.tools.analyse.combat.SeperateCombatX;
+import van.tools.io.LogLoader;
+import van.tools.log.DeleteTimeStamp;
 
 /**
  * @author Tingle Driftwood
