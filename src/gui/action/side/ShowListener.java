@@ -32,18 +32,21 @@ public class ShowListener implements EventHandler<ActionEvent> {
 	@Override
 	public void handle(ActionEvent arg0) {
 		// TODO Auto-generated method stub
-		String info = new String();
+//		String info = new String();
+		StringBuffer info = new StringBuffer();
 		log = new HashMap<Integer, String>();
 		log = tlp.getLog();
 
 		for (int i = 0; i < log.size(); i++) {
 			if (i > 0) {
-				info += "\n";
+				info.append("\n");
+//				info += "\n";
 			}
-			info += log.get(i);
+			info.append(log.get(i));
+//			info += log.get(i);
 		}
 
-		TextArea text = new TextArea(info);
+		TextArea text = new TextArea(info.toString());
 		border.setCenter(text);
 	}
 
