@@ -1,7 +1,11 @@
 
-## Tingle's Vanguard Log Parser
+## Tingle's Log Parser
 
-Tingle's Vanguard Log Parser is a small project to improve my Java skills.
+Tingle's Log Parser is a small project to improve my Java skills.
+
+This project started as an Vanguard Log Parser, but i deceided at an
+early stage to switch to an Multi MMORPG Log Parser. At the moment I
+code dual the version for Everquest II and Vanguard.
 
 In earlier versions for Everquest II i made the mistake to start too early
 with the GUI and did too less basic working on the parse functionality. So
@@ -16,43 +20,3 @@ of other stuff which I should do in my free time.
 Kind regards
 
 **Tingle Driftwood** *(known on a few MMORPG)*
-
-## Progress
-
-**March 3rd 2013**
-
-Finished first classes and added progress structure to project.
-
-**March 30th 2013**
-
-Added CountIncomingDamage class to project. Started with first basic GUI
-functionality.
-
-**March 31st 2013**
-
-Added SlashingDamage class to project.
-
-**April 16th 2013**
-
-Starting with first GUI implementation.
-
-## Full working classes
-
-**gui.main**
-
-**gui.menu**
-
-**gui.window**
-
-**tools.analyse**  
-CombatCounter  
-DateExract  
-CountIncommingDamage  
-KillList  
-TravelHistory
-
-**tools.io**  
-LogLoader
-
-**tools.log**  
-DeleteTimeStamp

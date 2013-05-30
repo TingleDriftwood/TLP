@@ -3,21 +3,28 @@
  */
 package tools.analyse;
 
+
 /**
  * @author Tingle Driftwood
  *
  */
 public class CheckKindOfLog {
-
-	private int i;
 	
+	private String logType;
+
 	public CheckKindOfLog(String str) {
 		//kind of log file undefined.
-		i = 0; 
+		logType = new String("UNDEFINED");
+		
+		//Check for Everquest II log file
+		int t = str.indexOf("eq2log");
+		if (t!=-1) {
+			logType="EVERQUEST II";
+		}
 	}
 	
-	public int getKindOfLog(){
-		return i;
+	public String getKindOfLog(){
+		return logType;
 	}
 	
 }

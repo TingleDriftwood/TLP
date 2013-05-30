@@ -7,14 +7,17 @@ import gui.main.TLP;
 
 import java.io.File;
 
-import van.tools.io.LogLoader;
+import tools.analyse.CheckKindOfLog;
+import tools.van.io.LogLoader;
 
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
 import javafx.scene.layout.BorderPane;
+import javafx.scene.layout.HBox;
 import javafx.scene.paint.Color;
 import javafx.scene.text.Font;
 import javafx.scene.text.FontPosture;
+import javafx.scene.text.FontWeight;
 import javafx.scene.text.Text;
 import javafx.stage.FileChooser;
 
@@ -44,11 +47,19 @@ public class LoadListener implements EventHandler<ActionEvent> {
 		
 		tlp.setLog(loader.getLog());
 		
+		HBox hBox = new HBox();
+		
+		Text logType = new Text(new CheckKindOfLog(file.getName()).getKindOfLog()+"  ");
+		logType.setFill(Color.DARKRED);
+		logType.setFont(Font.font("Arial", FontWeight.BOLD,12));
+		
 		Text text = new Text("Actual file: " + file.getPath());
 		text.setFill(Color.BLUE);
 		text.setFont(Font.font("Arial", FontPosture.ITALIC, 12));
 
-		border.setBottom(text);
+		hBox.getChildren().addAll(logType, text);
+		
+		border.setBottom(hBox);
 	}
 
 }

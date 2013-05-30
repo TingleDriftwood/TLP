@@ -8,8 +8,8 @@ import gui.main.TLP;
 import java.util.HashMap;
 import java.util.Map;
 
-import van.tools.analyse.KillList;
-import van.tools.log.DeleteTimeStamp;
+import tools.van.analyse.KillList;
+import tools.van.log.DeleteTimeStamp;
 
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;

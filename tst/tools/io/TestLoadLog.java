@@ -6,7 +6,7 @@ package tools.io;
 import java.io.File;
 import java.util.Map;
 
-import van.tools.io.LogLoader;
+import tools.van.io.LogLoader;
 
 /**
  * @author Tingle Driftwood
