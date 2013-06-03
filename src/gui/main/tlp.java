@@ -3,6 +3,7 @@
  */
 package gui.main;
 
+import java.sql.Connection;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -19,12 +20,13 @@ import javafx.stage.Stage;
 
 /**
  * @author Tingle Driftwood
- *
+ * 
  */
 public class TLP extends Application {
-	
+
 	private BorderPane border;
 	private Map<Integer, String> log;
+	private Connection conn;
 
 	private Stage primaryStage;
 
@@ -39,15 +41,18 @@ public class TLP extends Application {
 	@Override
 	public void start(Stage primaryStage) throws Exception {
 		// TODO Auto-generated method stub
-		this.primaryStage=primaryStage;
+		conn = null;
+
+		this.primaryStage = primaryStage;
 		border = new BorderPane();
 		log = new HashMap<Integer, String>();
-		
+
 		MenuBar menu = new MenuBar();
-		menu.getMenus().addAll(new FileMenu(this.primaryStage, this).getFileMenu());
-		
+		menu.getMenus().addAll(
+				new FileMenu(this.primaryStage, this).getFileMenu());
+
 		SideMenu side = new SideMenu(border, this);
-		
+
 		border.setTop(menu);
 		border.setLeft(side.getSideMenu());
 
@@ -58,7 +63,7 @@ public class TLP extends Application {
 		primaryStage.setHeight(300);
 		primaryStage.show();
 	}
-	
+
 	public Map<Integer, String> getLog() {
 		return log;
 	}
@@ -67,7 +72,12 @@ public class TLP extends Application {
 		this.log = log;
 	}
 
-	public BorderPane getBorderPane(){
+	public BorderPane getBorderPane() {
 		return border;
 	}
+
+	public Connection getConn() {
+		return conn;
+	}
+
 }
