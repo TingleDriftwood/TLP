@@ -5,6 +5,7 @@ package gui.menu;
 
 import gui.action.side.KillsListener;
 import gui.action.side.ShowListener;
+import gui.action.side.TravelListener;
 import gui.action.side.WriteLogListener;
 import gui.main.TLP;
 
@@ -35,7 +36,11 @@ public class SideMenu {
 		killBtn.setMinWidth(75);
 		killBtn.setOnAction(new KillsListener(border, tlp));
 
-		side.getChildren().addAll(showBtn, writeLogBtn, killBtn);
+		Button travelBtn = new Button("Travel");
+		travelBtn.setMinWidth(75);
+		travelBtn.setOnAction(new TravelListener(border, tlp));
+
+		side.getChildren().addAll(showBtn, writeLogBtn, killBtn, travelBtn);
 	}
 
 	public VBox getSideMenu() {

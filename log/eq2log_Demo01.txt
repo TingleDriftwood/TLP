@@ -1,0 +1,606 @@
+(1329845736)[Tue Feb 21 18:35:36 2012] Logging to "logs/Guk/eq2log_Gionae.txt" is now *ON*
+(1329845736)[Tue Feb 21 18:35:36 2012] You have entered Heirs of the Phoenix"s Guild Hall.
+(1329845736)[Tue Feb 21 18:35:36 2012] Guild MOTD: Congratulations to Jerome and Lorie on their anniversary of SIX  years of marriage.  Or as it"s usually called Lorie"s What the Heck Was I Thinking? day.
+(1329845736)[Tue Feb 21 18:35:36 2012] Guildmate: Gionae has logged in.
+(1329845736)[Tue Feb 21 18:35:36 2012] You have unread mail in your mailbox.
+(1329845736)[Tue Feb 21 18:35:36 2012] You have a new voice channel available: \aCMD vcjoin_session confctl-11983@e2p.vivox.com:<Guild Officers>\/a
+(1329845736)[Tue Feb 21 18:35:36 2012] You have a new voice channel available: \aCMD vcjoin_session confctl-11982@e2p.vivox.com:<Guild>\/a
+(1329845737)[Tue Feb 21 18:35:37 2012] You have joined "Driftwood" (12)
+(1329845737)[Tue Feb 21 18:35:37 2012] You have joined "Auction" (1)
+(1329845737)[Tue Feb 21 18:35:37 2012] You have joined "Level_1-9" (2)
+(1329845737)[Tue Feb 21 18:35:37 2012] You have joined "Level_10-19" (3)
+(1329845737)[Tue Feb 21 18:35:37 2012] You have joined "Level_20-29" (4)
+(1329845737)[Tue Feb 21 18:35:37 2012] You have joined "Level_30-39" (5)
+(1329845737)[Tue Feb 21 18:35:37 2012] You have joined "Level_40-49" (6)
+(1329845737)[Tue Feb 21 18:35:37 2012] You have joined "Level_50-59" (7)
+(1329845737)[Tue Feb 21 18:35:37 2012] You have joined "Level_60-69" (8)
+(1329845737)[Tue Feb 21 18:35:37 2012] You have joined "Level_70-79" (9)
+(1329845737)[Tue Feb 21 18:35:37 2012] You have joined "Level_80-89" (10)
+(1329845737)[Tue Feb 21 18:35:37 2012] You have joined "Necromancer" (11)
+(1329845761)[Tue Feb 21 18:36:01 2012] Message of the Day: Greetings, and welcome to Norrath!
+(1329845763)[Tue Feb 21 18:36:03 2012] You have unread mail in your mailbox.
+(1329845825)[Tue Feb 21 18:37:05 2012] You receive \aITEM 677188741 927382787:A formal summons\/a in mail from Reforging Guild.
+(1329845847)[Tue Feb 21 18:37:27 2012] You receive \aITEM 1838553817 -510022765:Elixir of Mara\/a in mail from Lian Augren.
+(1329845850)[Tue Feb 21 18:37:30 2012] You receive \aITEM 1817112378 238988121:Shiny Tinkerfest Cog\/a in mail from Didyma.
+(1329845854)[Tue Feb 21 18:37:34 2012] You receive \aITEM -1477608912 1094856367:Call to Frostfell Fanatics\/a in mail from Gardy Ex-Giftgiver.
+(1329845859)[Tue Feb 21 18:37:39 2012] Eliaas gained an Alternate Advancement point and now has 86 points.
+(1329845863)[Tue Feb 21 18:37:43 2012] Eliaas looted the Legendary \aITEM 1832937067 245077169:Leggings of Acute Pitch\/a.
+(1329845983)[Tue Feb 21 18:39:43 2012] Starting broker transaction with Short seller.
+(1329845983)[Tue Feb 21 18:39:43 2012] You say, "Hail, Short seller"
+(1329845983)[Tue Feb 21 18:39:43 2012] \aNPC 265341 Short seller:Short seller\/a says, "Hello.  My contacts have kept me informed on current market prices."
+(1329845983)[Tue Feb 21 18:39:43 2012] \#C7CFC701/31/2012 06:58 PM Starweaver bought 1 \#FFFFFF\aITEM 1958723641 -141863536:Gnomish Diving Goggles\/a\#C7CFC7 for \#A0A0A040s\/c
+(1329845983)[Tue Feb 21 18:39:43 2012] \#C7CFC702/11/2012 03:48 AM Wingedfreak bought 1 \#FFFFFF\aITEM 1958723641 -141863536:Gnomish Diving Goggles\/a\#C7CFC7 for \#A0A0A040s\/c
+(1329845983)[Tue Feb 21 18:39:43 2012] \#C7CFC702/10/2012 10:29 PM Chicota bought 1 \#FFFFFF\aITEM 1958723641 -141863536:Gnomish Diving Goggles\/a\#C7CFC7 for \#A0A0A040s\/c
+(1329845989)[Tue Feb 21 18:39:49 2012] You receive 1 Gold, 20 Silver earned through consigned sales.
+(1329846063)[Tue Feb 21 18:41:03 2012] You bought 1 eucalyptus lumber for 5 Platinum, 50 Gold
+(1329846065)[Tue Feb 21 18:41:05 2012] You bought 1 eucalyptus lumber for 5 Platinum, 50 Gold
+(1329846107)[Tue Feb 21 18:41:47 2012] You successfully countered Impurity Bubble.
+(1329846109)[Tue Feb 21 18:41:49 2012] Elaborate Woodworking Table"s Countered Impurity Bubble refreshes YOU for 210 mana points.
+(1329846116)[Tue Feb 21 18:41:56 2012] You successfully countered Major Impurity Bubble.
+(1329846118)[Tue Feb 21 18:41:58 2012] Elaborate Woodworking Table"s Countered Major Impurity Bubble refreshes YOU for 158 mana points.
+(1329846118)[Tue Feb 21 18:41:58 2012] Critical success!
+(1329846123)[Tue Feb 21 18:42:03 2012] You successfully countered Distraction.
+(1329846127)[Tue Feb 21 18:42:07 2012] You successfully countered Impurity Bubble.
+(1329846140)[Tue Feb 21 18:42:20 2012] You successfully countered Major Misalignment.
+(1329846142)[Tue Feb 21 18:42:22 2012] Critical success!
+(1329846142)[Tue Feb 21 18:42:22 2012] You created \aITEM -844908495 2016812910:Eucalyptus Scroll Stand\/a.
+(1329846197)[Tue Feb 21 18:43:17 2012] You successfully countered Major Impurity Bubble.
+(1329846200)[Tue Feb 21 18:43:20 2012] Elaborate Woodworking Table"s Countered Major Impurity Bubble refreshes YOU for 368 mana points.
+(1329846200)[Tue Feb 21 18:43:20 2012] Critical success!
+(1329846201)[Tue Feb 21 18:43:21 2012] Eliaas gained an adventure level and is now a level 61 Troubador.
+(1329846212)[Tue Feb 21 18:43:32 2012] You say to the guild, "Gratz"
+(1329846222)[Tue Feb 21 18:43:42 2012] You successfully countered Distraction.
+(1329846225)[Tue Feb 21 18:43:45 2012] Elaborate Woodworking Table"s Countered Distraction refreshes YOU for 158 mana points.
+(1329846225)[Tue Feb 21 18:43:45 2012] \aPC -1 Eliaas:Eliaas\/a says to the guild, "thank u "
+(1329846226)[Tue Feb 21 18:43:46 2012] You successfully countered Impurity Bubble.
+(1329846229)[Tue Feb 21 18:43:49 2012] Elaborate Woodworking Table"s Countered Impurity Bubble refreshes YOU for 210 mana points.
+(1329846229)[Tue Feb 21 18:43:49 2012] You created \aITEM -1711757516 -1505339932:Eucalyptus Salesman"s Crate\/a.
+(1329846234)[Tue Feb 21 18:43:54 2012] \aPC -1 Eliaas:Eliaas\/a says to the guild, "long time no see Mathias :)"
+(1329846239)[Tue Feb 21 18:43:59 2012] \aPC -1 Eliaas:Eliaas\/a says to the guild, "how have u been?"
+(1329846250)[Tue Feb 21 18:44:10 2012] You say, "Took a little break"
+(1329846346)[Tue Feb 21 18:45:46 2012] You say to the guild, "took a little break (need distance to game)  and be back with with my Illu (Tingle) since a few weeks (is in Wild Retribution - like my other 90ths) are you online in 1,5 hours? Anjy, Fredy and I doing a few instances 80 till 90"
+(1329846348)[Tue Feb 21 18:45:48 2012] \aPC -1 Carrath:Carrath\/a tells Level_1-9 (2), "by chronomaging and getting the 20% decrease, if i have a 20% increase from veteran, is it the same or is it different"
+(1329846357)[Tue Feb 21 18:45:57 2012] \aPC -1 Eliaas:Eliaas\/a says to the guild, "how hard is it to do the fabled and mythical for our class?"
+(1329846381)[Tue Feb 21 18:46:21 2012] You have successfully sent a message to Tingle containing \aITEM -844908495 2016812910 0:Eucalyptus Scroll Stand\/a.
+(1329846385)[Tue Feb 21 18:46:25 2012] \aPC -1 Sqaw:Sqaw\/a tells Level_1-9 (2), "pretty much cancells the decrease out"
+(1329846386)[Tue Feb 21 18:46:26 2012] You have successfully sent a message to Tingle containing \aITEM -1711757516 -1505339932 0:Eucalyptus Salesman"s Crate\/a.
+(1329846401)[Tue Feb 21 18:46:41 2012] You say to the guild, "fabled for Illusionist? was easy going"
+(1329846402)[Tue Feb 21 18:46:42 2012] \aPC -1 Carrath:Carrath\/a tells Level_1-9 (2), "so its normal correct?"
+(1329846435)[Tue Feb 21 18:47:15 2012] \aPC -1 Eliaas:Eliaas\/a says to the guild, "thought u had a Trouby?"
+(1329846490)[Tue Feb 21 18:48:10 2012] You say to the guild, "yep Tuvien, made only fabled if i am  not wrong it was easy/mid lvl of difficulty"
+(1329846544)[Tue Feb 21 18:49:04 2012] \aPC -1 Eliaas:Eliaas\/a says to the guild, "boy this guy hits harded than my lvl 83 dirge"
+(1329846575)[Tue Feb 21 18:49:35 2012] You say to the guild, "really i always though Dirges are the better bards"
+(1329846636)[Tue Feb 21 18:50:36 2012] You have joined "Level_90" (13)
+(1329846685)[Tue Feb 21 18:51:25 2012] \aPC -1 Solzak:Solzak\/a tells Level_1-9 (2), "Not quite..."
+(1329846703)[Tue Feb 21 18:51:43 2012] You say to the guild, "Log to Tingle, have to clean up some stuff - i will send u a tell after login"
+(1329846714)[Tue Feb 21 18:51:54 2012] \aPC -1 Eliaas:Eliaas\/a says to the guild, "k"
+(1329846715)[Tue Feb 21 18:51:55 2012] It will take about 20 more seconds to prepare your camp.
+(1329846720)[Tue Feb 21 18:52:00 2012] It will take about 15 more seconds to prepare your camp.
+(1329846725)[Tue Feb 21 18:52:05 2012] It will take about 10 more seconds to prepare your camp.
+(1329846730)[Tue Feb 21 18:52:10 2012] It will take about 5 more seconds to prepare your camp.
+(1331788420)[Thu Mar 15 06:13:40 2012] Logging to "logs/Guk/eq2log_Gionae.txt" is now *ON*
+(1331788420)[Thu Mar 15 06:13:40 2012] You have entered Heirs of the Phoenix"s Guild Hall.
+(1331788420)[Thu Mar 15 06:13:40 2012] Guild MOTD: Hello everyone. This is Jerome and Lorie just letting everyone know that No we are not leaving the guild other than pulling out a few toons to help with a new guild. This is too help a boy who is dying from Cancer. 
+(1331788420)[Thu Mar 15 06:13:40 2012] Guildmate: Gionae has logged in.
+(1331788420)[Thu Mar 15 06:13:40 2012] You have a new voice channel available: \aCMD vcjoin_session confctl-11982@e2p.vivox.com:<Guild>\/a
+(1331788421)[Thu Mar 15 06:13:41 2012] You have joined "Driftwood" (12)
+(1331788421)[Thu Mar 15 06:13:41 2012] You have joined "Auction" (1)
+(1331788421)[Thu Mar 15 06:13:41 2012] You have joined "Level_1-9" (2)
+(1331788421)[Thu Mar 15 06:13:41 2012] You have joined "Level_10-19" (3)
+(1331788421)[Thu Mar 15 06:13:41 2012] You have joined "Level_20-29" (4)
+(1331788421)[Thu Mar 15 06:13:41 2012] You have joined "Level_30-39" (5)
+(1331788421)[Thu Mar 15 06:13:41 2012] You have joined "Level_40-49" (6)
+(1331788421)[Thu Mar 15 06:13:41 2012] You have joined "Level_50-59" (7)
+(1331788421)[Thu Mar 15 06:13:41 2012] You have joined "Level_60-69" (8)
+(1331788421)[Thu Mar 15 06:13:41 2012] You have joined "Level_70-79" (9)
+(1331788421)[Thu Mar 15 06:13:41 2012] You have joined "Level_80-89" (10)
+(1331788421)[Thu Mar 15 06:13:41 2012] You have joined "Necromancer" (11)
+(1331788421)[Thu Mar 15 06:13:41 2012] You have joined "Level_90" (13)
+(1331788421)[Thu Mar 15 06:13:41 2012] You have a new voice channel available: \aCMD vcjoin_session confctl-11983@e2p.vivox.com:<Guild Officers>\/a
+(1331788442)[Thu Mar 15 06:14:02 2012] Message of the Day: Greetings, and welcome to Norrath!
+(1331788444)[Thu Mar 15 06:14:04 2012] \aPC -1 Kattapault:Kattapault\/a tells Level_1-9 (2), "Oh yeah, I want the researcher"s Sanctum"
+(1331788444)[Thu Mar 15 06:14:04 2012] You have unread mail in your mailbox.
+(1331788478)[Thu Mar 15 06:14:38 2012] Starting broker transaction with Short seller.
+(1331788478)[Thu Mar 15 06:14:38 2012] You say, "Hail, Short seller"
+(1331788478)[Thu Mar 15 06:14:38 2012] \aNPC 150580 Short seller:Short seller\/a says, "Hello.  My contacts have kept me informed on current market prices."
+(1331788505)[Thu Mar 15 06:15:05 2012] You have entered Antonica.
+(1331788669)[Thu Mar 15 06:17:49 2012] Logging to "logs/Guk/eq2log_Gionae.txt" is now *ON*
+(1331788669)[Thu Mar 15 06:17:49 2012] You have entered Bar of Brell.
+(1331788669)[Thu Mar 15 06:17:49 2012] Guild MOTD: Hello everyone. This is Jerome and Lorie just letting everyone know that No we are not leaving the guild other than pulling out a few toons to help with a new guild. This is too help a boy who is dying from Cancer. 
+(1331788669)[Thu Mar 15 06:17:49 2012] Guildmate: Gionae has logged in.
+(1331788670)[Thu Mar 15 06:17:50 2012] You have unread mail in your mailbox.
+(1331788670)[Thu Mar 15 06:17:50 2012] You have a new voice channel available: \aCMD vcjoin_session confctl-11983@e2p.vivox.com:<Guild Officers>\/a
+(1331788670)[Thu Mar 15 06:17:50 2012] You have a new voice channel available: \aCMD vcjoin_session confctl-11982@e2p.vivox.com:<Guild>\/a
+(1331788670)[Thu Mar 15 06:17:50 2012] You have joined "Driftwood" (12)
+(1331788670)[Thu Mar 15 06:17:50 2012] You have joined "Auction" (1)
+(1331788670)[Thu Mar 15 06:17:50 2012] You have joined "Level_1-9" (2)
+(1331788670)[Thu Mar 15 06:17:50 2012] You have joined "Level_10-19" (3)
+(1331788670)[Thu Mar 15 06:17:50 2012] You have joined "Level_20-29" (4)
+(1331788670)[Thu Mar 15 06:17:50 2012] You have joined "Level_30-39" (5)
+(1331788670)[Thu Mar 15 06:17:50 2012] You have joined "Level_40-49" (6)
+(1331788670)[Thu Mar 15 06:17:50 2012] You have joined "Level_50-59" (7)
+(1331788670)[Thu Mar 15 06:17:50 2012] You have joined "Level_60-69" (8)
+(1331788670)[Thu Mar 15 06:17:50 2012] You have joined "Level_70-79" (9)
+(1331788670)[Thu Mar 15 06:17:50 2012] You have joined "Level_80-89" (10)
+(1331788670)[Thu Mar 15 06:17:50 2012] You have joined "Necromancer" (11)
+(1331788670)[Thu Mar 15 06:17:50 2012] You have joined "Level_90" (13)
+(1331788677)[Thu Mar 15 06:17:57 2012] \aNPC 35367 Snoogle Blitzed:Snoogle Blitzed\/a says, "Give me another one Buzz, or I"ll take your bolts out."
+(1331788678)[Thu Mar 15 06:17:58 2012] Message of the Day: Greetings, and welcome to Norrath!
+(1331788678)[Thu Mar 15 06:17:58 2012] \aNPC 35132 Rasel Alechaser:Rasel Alechaser\/a says, "Another ale!"
+(1331788683)[Thu Mar 15 06:18:03 2012] \aPC 1932548 Falanoya:Falanoya\/a says, "Hail, Gilin Rockbreath"
+(1331788699)[Thu Mar 15 06:18:19 2012] You say, "Hail, Gilin Rockbreath"
+(1331788699)[Thu Mar 15 06:18:19 2012] \aNPC 35073 Gilin Rockbreath:Gilin Rockbreath\/a says to you, "Grab yerself a pint and enjoy the day, Gionae!  Who knows ye just might find a pretty young thing to grapple with by the end of it."
+(1331788700)[Thu Mar 15 06:18:20 2012] You say to Gilin Rockbreath, "Sounds like a great idea!"
+(1331788700)[Thu Mar 15 06:18:20 2012] \aNPC 35073 Gilin Rockbreath:Gilin Rockbreath\/a says to you, "You bet it... Whoa!  Speak of the demon.  She is a looker!  Be still me hammerin" heart!  What mines has she been hidin" in all me life?!"
+(1331788701)[Thu Mar 15 06:18:21 2012] You say to Gilin Rockbreath, "Who are you talking about?"
+(1331788701)[Thu Mar 15 06:18:21 2012] \aNPC 35073 Gilin Rockbreath:Gilin Rockbreath\/a says to you, "That vision of perfection, over yonder.  The amber haired beauty, that"s who!"
+(1331788701)[Thu Mar 15 06:18:21 2012] \aNPC 35367 Snoogle Blitzed:Snoogle Blitzed\/a says, "Once again, you follow me here. Some day I will leave you alone."
+(1331788702)[Thu Mar 15 06:18:22 2012] You say to Gilin Rockbreath, "There"s no such person."
+(1331788702)[Thu Mar 15 06:18:22 2012] \aNPC 35073 Gilin Rockbreath:Gilin Rockbreath\/a says to you, "What?!  Me eyes are keen, and I ain"t drunk enough to see what ain"t there.  Wait one gods forsaken moment!"
+(1331788703)[Thu Mar 15 06:18:23 2012] You say to Gilin Rockbreath, "What is it?"
+(1331788703)[Thu Mar 15 06:18:23 2012] \aNPC 35073 Gilin Rockbreath:Gilin Rockbreath\/a says to you, "Do you see anyone over yonder, standing in the corner?"
+(1331788703)[Thu Mar 15 06:18:23 2012] You say to Gilin Rockbreath, "I do.  There is a yellow Froglok girl there."
+(1331788704)[Thu Mar 15 06:18:24 2012] \aNPC 35073 Gilin Rockbreath:Gilin Rockbreath\/a says to you, "Don"t ya talk about me love like that!"
+(1331788704)[Thu Mar 15 06:18:24 2012] You say to Gilin Rockbreath, "No, really!  It"s a Froglok."
+(1331788705)[Thu Mar 15 06:18:25 2012] \aNPC 35073 Gilin Rockbreath:Gilin Rockbreath\/a says to you, "Aaagh!  Damned gnome gadgetry!  Ye can never trust ‘em!  I should just be thankful that them goggles didn"t simply blow up in me face, especially while I was enjoying those gorgeous ladies abroad."
+(1331788705)[Thu Mar 15 06:18:25 2012] You say to Gilin Rockbreath, "Uh, Gilin.  If you were wearing them then, and the goggles are making a Froglok appear attractive to you now..."
+(1331788706)[Thu Mar 15 06:18:26 2012] \aNPC 35073 Gilin Rockbreath:Gilin Rockbreath\/a says to you, "Oh, blessed Brell!  What if those ladies weren"t as lovely as I thought?  But I can"t show me face around them again if"n they be hideous.  You can do it for me!"
+(1331788706)[Thu Mar 15 06:18:26 2012] You say to Gilin Rockbreath, "Do what?"
+(1331788708)[Thu Mar 15 06:18:28 2012] You receive 1 \aITEM 1525470065 1897718439:Gilin"s Ale Goggles\/a.
+(1331788708)[Thu Mar 15 06:18:28 2012] \aNPC 35073 Gilin Rockbreath:Gilin Rockbreath\/a says to you, "Go back and find each lass and let me know if"n they be hot or not.  Take the goggles and be sure you find the exact filly I saw.  Tell them whatever ya will, but don"t ya dare say that yer checkin" them out for me!"
+(1331788710)[Thu Mar 15 06:18:30 2012] You say to Gilin Rockbreath, "I won"t let you down, Gilin."
+(1331788712)[Thu Mar 15 06:18:32 2012] You say, "Hail, Rasel Alechaser"
+(1331788712)[Thu Mar 15 06:18:32 2012] \aNPC 35132 Rasel Alechaser:Rasel Alechaser\/a says to you, "Welcome back, Gionae!  *hic*  You certainly know yer ales, friend!  Fact, I"m glad yer back!  Mraugl Stonecrusher here is willing to wipe my bar tab if we brew up another keg of Brell"s Everlasting Brew.  Are ye up to it?  I promise this will be the last time I ask for yer help."
+(1331788713)[Thu Mar 15 06:18:33 2012] You say to Rasel Alechaser, "Sure!"
+(1331788715)[Thu Mar 15 06:18:35 2012] \aPC 1937799 Silverlynx:Silverlynx\/a says, "Hail, Rasel Alechaser"
+(1331788716)[Thu Mar 15 06:18:36 2012] \aNPC 35132 Rasel Alechaser:Rasel Alechaser\/a says to you, "That"s great! It shouldn"t be too hard. I have everything I need except for the barley, hops, and water... I need ye to get those. The barley and hops ye can finagle from two farmers, and the water has to be a mix of pure water. I"ll answer any questions ye have."
+(1331788718)[Thu Mar 15 06:18:38 2012] You say to Rasel Alechaser, "I have everything I need. I"ll be back."
+(1331788728)[Thu Mar 15 06:18:48 2012] You say, "Hail, Snoogle Blitzed"
+(1331788728)[Thu Mar 15 06:18:48 2012] \aNPC 35367 Snoogle Blitzed:Snoogle Blitzed\/a says to you, "Well, hello there!"
+(1331788729)[Thu Mar 15 06:18:49 2012] You say to Snoogle Blitzed, "Hi."
+(1331788730)[Thu Mar 15 06:18:50 2012] \aNPC 35367 Snoogle Blitzed:Snoogle Blitzed\/a says to you, "Well, hello there!"
+(1331788730)[Thu Mar 15 06:18:50 2012] You say to Snoogle Blitzed, "You already said that."
+(1331788731)[Thu Mar 15 06:18:51 2012] \aNPC 35367 Snoogle Blitzed:Snoogle Blitzed\/a says to you, "Oh, I did. Well then, you must need a drink."
+(1331788731)[Thu Mar 15 06:18:51 2012] You say to Snoogle Blitzed, "Sure, I will have a drink."
+(1331788732)[Thu Mar 15 06:18:52 2012] \aNPC 35367 Snoogle Blitzed:Snoogle Blitzed\/a says to you, "Hey Buzzer, pour this one some of your special stuff."
+(1331788732)[Thu Mar 15 06:18:52 2012] You say to Snoogle Blitzed, "Do I really want to drink from that thing?"
+(1331788733)[Thu Mar 15 06:18:53 2012] \aNPC 35367 Snoogle Blitzed:Snoogle Blitzed\/a says to you, "Sure you do! It is a most wonderful clockwork concoction."
+(1331788733)[Thu Mar 15 06:18:53 2012] You say to Snoogle Blitzed, "If you say so."
+(1331788733)[Thu Mar 15 06:18:53 2012] \aNPC 35367 Snoogle Blitzed:Snoogle Blitzed\/a says to you, "Well, hello there!"
+(1331788734)[Thu Mar 15 06:18:54 2012] You say to Snoogle Blitzed, "Are we at this again?"
+(1331788734)[Thu Mar 15 06:18:54 2012] \aNPC 35367 Snoogle Blitzed:Snoogle Blitzed\/a says to you, "Oh, I am sorry we must have already met. See I am just so lost in thought."
+(1331788734)[Thu Mar 15 06:18:54 2012] \aNPC 35132 Rasel Alechaser:Rasel Alechaser\/a says, "Another ale!"
+(1331788735)[Thu Mar 15 06:18:55 2012] You say to Snoogle Blitzed, "In thought?  It seems more like you"re drunk."
+(1331788735)[Thu Mar 15 06:18:55 2012] \aNPC 35367 Snoogle Blitzed:Snoogle Blitzed\/a says to you, "Well, yes I am that too. I must remember where I left them and what I did, and I was on my way to Brell"s bar when I think I left them."
+(1331788736)[Thu Mar 15 06:18:56 2012] You say to Snoogle Blitzed, "What did you lose?"
+(1331788736)[Thu Mar 15 06:18:56 2012] \aNPC 35367 Snoogle Blitzed:Snoogle Blitzed\/a says to you, "I have, over the years of INTENSELY studying Brewday, come up with four objects that hold great power during the Brewday festival."
+(1331788736)[Thu Mar 15 06:18:56 2012] You say to Snoogle Blitzed, "And you"re just not there yet?"
+(1331788737)[Thu Mar 15 06:18:57 2012] \aNPC 35367 Snoogle Blitzed:Snoogle Blitzed\/a says to you, "Oh no, I could be, but I have a huge presentation tomorrow about the very subject, and if I drink the Gnomish Spirits required to be in the state where the powers show themselves, I will never make the presentation."
+(1331788737)[Thu Mar 15 06:18:57 2012] You say to Snoogle Blitzed, "So you have this special spirit in a bottle?"
+(1331788737)[Thu Mar 15 06:18:57 2012] \aNPC 35367 Snoogle Blitzed:Snoogle Blitzed\/a says to you, "Yes, yes. And if you drink from it, you will be able to see the objects of great power."
+(1331788738)[Thu Mar 15 06:18:58 2012] You say to Snoogle Blitzed, "Okay, why don"t you hand it over?"
+(1331788738)[Thu Mar 15 06:18:58 2012] \aNPC 35367 Snoogle Blitzed:Snoogle Blitzed\/a says to you, "I am not sure I can trust you with it. If you knew, you could give the presentation to the council. And then where would I be?"
+(1331788739)[Thu Mar 15 06:18:59 2012] You say to Snoogle Blitzed, "What council?"
+(1331788739)[Thu Mar 15 06:18:59 2012] \aNPC 35367 Snoogle Blitzed:Snoogle Blitzed\/a says to you, "Oh, you"re a tricky one you are."
+(1331788739)[Thu Mar 15 06:18:59 2012] You say to Snoogle Blitzed, "Now you are just being foolish, little gnome."
+(1331788740)[Thu Mar 15 06:19:00 2012] \aNPC 35367 Snoogle Blitzed:Snoogle Blitzed\/a says to you, "Well, hello there."
+(1331788740)[Thu Mar 15 06:19:00 2012] You say to Snoogle Blitzed, "Listen. Do you want my help or not?"
+(1331788741)[Thu Mar 15 06:19:01 2012] \aNPC 35367 Snoogle Blitzed:Snoogle Blitzed\/a says to you, "Help with what?"
+(1331788741)[Thu Mar 15 06:19:01 2012] You say to Snoogle Blitzed, "You were talking about finding objects of power on Brewday. You even asked me to go get them for you."
+(1331788742)[Thu Mar 15 06:19:02 2012] \aNPC 35367 Snoogle Blitzed:Snoogle Blitzed\/a says to you, "I did? Well, you will need this then. It"s my flask. If you lose it I will be very angry. But let me tell you a secret. These things you are after, you can only see them once you"ve taken a sip from my flask!"
+(1331788742)[Thu Mar 15 06:19:02 2012] You say to Snoogle Blitzed, "Thank you. Now, where should I start?"
+(1331788742)[Thu Mar 15 06:19:02 2012] \aNPC 35367 Snoogle Blitzed:Snoogle Blitzed\/a says to you, "The first object of power lies in the savanna, but it can only be seen under the right circumstances. It follows its own kind, although much smaller in size."
+(1331788743)[Thu Mar 15 06:19:03 2012] You say to Snoogle Blitzed, "Okay, and the next?"
+(1331788743)[Thu Mar 15 06:19:03 2012] \aNPC 35367 Snoogle Blitzed:Snoogle Blitzed\/a says to you, "The next flies in the sky above its home. It seems silly to its siblings and to the ones it knows. Even the dead around cannot help but laugh when it oinks."
+(1331788744)[Thu Mar 15 06:19:04 2012] You say to Snoogle Blitzed, "I think I am losing you again. Have another drink."
+(1331788745)[Thu Mar 15 06:19:05 2012] \aNPC 35367 Snoogle Blitzed:Snoogle Blitzed\/a says to you, "Hello, did you bring that for me?"
+(1331788745)[Thu Mar 15 06:19:05 2012] You say to Snoogle Blitzed, "Yes, yes. Drink up. You were about to tell me about the third item."
+(1331788745)[Thu Mar 15 06:19:05 2012] \aNPC 35367 Snoogle Blitzed:Snoogle Blitzed\/a says to you, "Oh, silly that. It"s small and fast and has a tail, but when you catch it you will know its power. I last saw it on a beach coloring its scales. But it ran away too fast for me to gather."
+(1331788746)[Thu Mar 15 06:19:06 2012] You say to Snoogle Blitzed, "Okay, okay. And the last object of power?"
+(1331788746)[Thu Mar 15 06:19:06 2012] \aNPC 35367 Snoogle Blitzed:Snoogle Blitzed\/a says to you, "It talks to you and yet it should not. It goes great with corned beef and a brew. But when it talks to you... ewww..."
+(1331788747)[Thu Mar 15 06:19:07 2012] You say to Snoogle Blitzed, "Is that it? Any other hints?"
+(1331788747)[Thu Mar 15 06:19:07 2012] \aNPC 35367 Snoogle Blitzed:Snoogle Blitzed\/a says to you, "Oh yeah, it grows in a very enchanted place, and the one with the tail lives on the outskirts of the jungle. The flying one lives above a small village in the hills, and I think I told you where to find the first one."
+(1331788748)[Thu Mar 15 06:19:08 2012] You say to Snoogle Blitzed, "Okay, I will return and your presentation will be saved."
+(1331788750)[Thu Mar 15 06:19:10 2012] You receive 1 \aITEM 271514606 2059975280:Snoogle"s Special Flask\/a.
+(1331788750)[Thu Mar 15 06:19:10 2012] \aNPC 35367 Snoogle Blitzed:Snoogle Blitzed\/a says to you, "Well, hello there! Take my flask, I think I forgot to give it to you earlier. You remember how to use it don"t you? It"s so wonderful."
+(1331788750)[Thu Mar 15 06:19:10 2012] You say to Snoogle Blitzed, "I will be back later."
+(1331788754)[Thu Mar 15 06:19:14 2012] You say, "Hail, Oldar Foambeard"
+(1331788754)[Thu Mar 15 06:19:14 2012] \aNPC 35702 Oldar Foambeard:Oldar Foambeard\/a says to you, "Well met!  What brings ya to this mystical watering hole?"
+(1331788757)[Thu Mar 15 06:19:17 2012] You say to Oldar Foambeard, "Ale and entertainment, same as you, I"d wager."
+(1331788757)[Thu Mar 15 06:19:17 2012] \aNPC 35702 Oldar Foambeard:Oldar Foambeard\/a says to you, "Ya"d win that wager, fer certain.  Though yer gonna be disappointed if"n ya like anything stronger than fermented river water."
+(1331788758)[Thu Mar 15 06:19:18 2012] You say to Oldar Foambeard, "Why would you say that?"
+(1331788758)[Thu Mar 15 06:19:18 2012] \aNPC 35702 Oldar Foambeard:Oldar Foambeard\/a says to you, "The amount of swill that"s passed me lips over me many years is great, and what they"ve got here ranks amongst the better, I must admit.  But Thurgadin Ice Brew is still the best there be!  Punch ya in the gut and leave ya head in tomorrow, it will!"
+(1331788759)[Thu Mar 15 06:19:19 2012] You say to Oldar Foambeard, "I"ll be the judge of that!"
+(1331788759)[Thu Mar 15 06:19:19 2012] \aNPC 35702 Oldar Foambeard:Oldar Foambeard\/a says to you, "Good thinking!  I like the way your mind works, Gionae.  Get us some Dwarven Ale from the bartender."
+(1331788760)[Thu Mar 15 06:19:20 2012] You say to Oldar Foambeard, "Mugs of Dwarven Ale, coming right up!"
+(1331788769)[Thu Mar 15 06:19:29 2012] You say, "Hail, Tellar Blackswell"
+(1331788769)[Thu Mar 15 06:19:29 2012] \aNPC 35730 Tellar Blackswell:Tellar Blackswell\/a says to you, "Well met!  Oh, wow.  Is the room spinning for you too?"
+(1331788770)[Thu Mar 15 06:19:30 2012] You say to Tellar Blackswell, "No, but if I"d drank as much ale as you have, I am sure it would be."
+(1331788770)[Thu Mar 15 06:19:30 2012] \aNPC 35730 Tellar Blackswell:Tellar Blackswell\/a says to you, "You"re right about that!  Ha ha ha!  I was on my way somewhere... when the sound of intoxicated dwarven mirth called me to the Bar of Brell.  Where was I going?"
+(1331788771)[Thu Mar 15 06:19:31 2012] You say to Tellar Blackswell, "I don"t know."
+(1331788771)[Thu Mar 15 06:19:31 2012] \aNPC 35730 Tellar Blackswell:Tellar Blackswell\/a says to you, "I"m in no shape to leave now, that"s for sure!  But maybe if I was sober I would remember where I was going and what I was doing."
+(1331788772)[Thu Mar 15 06:19:32 2012] You say to Tellar Blackswell, "That might help."
+(1331788772)[Thu Mar 15 06:19:32 2012] \aNPC 35730 Tellar Blackswell:Tellar Blackswell\/a says to you, "There"s a wondrous tonic sold by Eurkon Al"ouz, a sarnak in Gorowyn.  I tell you, his Gorowyn Pepper Swill always sobers me right up!"
+(1331788773)[Thu Mar 15 06:19:33 2012] You say to Tellar Blackswell, "I"ll get you some."
+(1331788775)[Thu Mar 15 06:19:35 2012] \aPC 1937799 Silverlynx:Silverlynx\/a says, "Hail, Snoogle Blitzed"
+(1331788793)[Thu Mar 15 06:19:53 2012] \aNPC 35132 Rasel Alechaser:Rasel Alechaser\/a says, "Another ale!"
+(1331788813)[Thu Mar 15 06:20:13 2012] You are currently not in a mail transaction.
+(1331788815)[Thu Mar 15 06:20:15 2012] You have entered Bar of Brell: Private Lounge.
+(1331788823)[Thu Mar 15 06:20:23 2012] You say, "Hail, Dwayne Rockbeard"
+(1331788823)[Thu Mar 15 06:20:23 2012] \aNPC 87462 Dwayne Rockbeard:Dwayne Rockbeard\/a says to you, "Welcome, Gionae. I see you"re the lucky one that gets to try to get the barley from Farmer Jimmy. I"ll help you as much as I can. I have been serving up drinks to Jimmy for several years and I can offer you some advice. I can also tell you about the drinks we have to give him."
+(1331788828)[Thu Mar 15 06:20:28 2012] You say to Dwayne Rockbeard, "Just serve the drinks, barkeep!"
+(1331788828)[Thu Mar 15 06:20:28 2012] \aNPC 87462 Dwayne Rockbeard:Dwayne Rockbeard\/a says to you, "What kind of drink do you want to send to Jimmy?"
+(1331788832)[Thu Mar 15 06:20:32 2012] You say to Dwayne Rockbeard, "A cup of strong black coffee."
+(1331788832)[Thu Mar 15 06:20:32 2012] \aNPC 87715 Jimmy Runner:Jimmy Runner\/a says, "Don"t know what I was thinking drinking all those drinks."
+(1331788834)[Thu Mar 15 06:20:34 2012] You say, "Hail, Dwayne Rockbeard"
+(1331788834)[Thu Mar 15 06:20:34 2012] \aNPC 87462 Dwayne Rockbeard:Dwayne Rockbeard\/a says to you, "What kind of drink do you want to send to Jimmy?"
+(1331788836)[Thu Mar 15 06:20:36 2012] You say to Dwayne Rockbeard, "Some gnomish spirits."
+(1331788836)[Thu Mar 15 06:20:36 2012] \aNPC 87715 Jimmy Runner:Jimmy Runner\/a says, "I love Brewday... Best time of the year for relaxing."
+(1331788838)[Thu Mar 15 06:20:38 2012] You say, "Hail, Dwayne Rockbeard"
+(1331788838)[Thu Mar 15 06:20:38 2012] \aNPC 87462 Dwayne Rockbeard:Dwayne Rockbeard\/a says to you, "What kind of drink do you want to send to Jimmy?"
+(1331788841)[Thu Mar 15 06:20:41 2012] You say to Dwayne Rockbeard, "A dwarven ale."
+(1331788842)[Thu Mar 15 06:20:42 2012] \aNPC 87715 Jimmy Runner:Jimmy Runner\/a says, "It"s so nice to just relax where no one bugs me about my barley."
+(1331788843)[Thu Mar 15 06:20:43 2012] You say, "Hail, Dwayne Rockbeard"
+(1331788843)[Thu Mar 15 06:20:43 2012] \aNPC 87462 Dwayne Rockbeard:Dwayne Rockbeard\/a says to you, "What kind of drink do you want to send to Jimmy?"
+(1331788845)[Thu Mar 15 06:20:45 2012] You say to Dwayne Rockbeard, "Some gnomish spirits."
+(1331788845)[Thu Mar 15 06:20:45 2012] \aNPC 87715 Jimmy Runner:Jimmy Runner\/a says, "I really do enjoy a good drink... Ahh."
+(1331788846)[Thu Mar 15 06:20:46 2012] You say, "Hail, Dwayne Rockbeard"
+(1331788846)[Thu Mar 15 06:20:46 2012] \aNPC 87462 Dwayne Rockbeard:Dwayne Rockbeard\/a says to you, "What kind of drink do you want to send to Jimmy?"
+(1331788857)[Thu Mar 15 06:20:57 2012] You say to Dwayne Rockbeard, "A dwarven ale."
+(1331788857)[Thu Mar 15 06:20:57 2012] \aNPC 87715 Jimmy Runner:Jimmy Runner\/a says, "After a hard day on the farm, this is exactly what I need."
+(1331788859)[Thu Mar 15 06:20:59 2012] You say, "Hail, Dwayne Rockbeard"
+(1331788859)[Thu Mar 15 06:20:59 2012] \aNPC 87462 Dwayne Rockbeard:Dwayne Rockbeard\/a says to you, "What kind of drink do you want to send to Jimmy?"
+(1331788860)[Thu Mar 15 06:21:00 2012] You say to Dwayne Rockbeard, "Some gnomish spirits."
+(1331788861)[Thu Mar 15 06:21:01 2012] \aNPC 87715 Jimmy Runner:Jimmy Runner\/a says, "Did ya kno" I grow the best barley in all of Norrath... "Tis true, no one"s barley can compare to mine."
+(1331788863)[Thu Mar 15 06:21:03 2012] \aNPC 87715 Jimmy Runner:Jimmy Runner\/a says to you, "Did ya know I"m the famous barley farmer, Jimmy Runner? Bet ya did, I am famous after all... What can I do ya fer?"
+(1331788864)[Thu Mar 15 06:21:04 2012] You say to Jimmy Runner, "I have heard of you. What say you give me a sample of that barley to back up your claim?"
+(1331788865)[Thu Mar 15 06:21:05 2012] \aNPC 87715 Jimmy Runner:Jimmy Runner\/a says to you, "What?! Ya don" believe me? I"ll show you... Take this here barley, I"m tellin" ya there ain"t any better to be had!"
+(1331788878)[Thu Mar 15 06:21:18 2012] You have entered Bar of Brell.
+(1331788889)[Thu Mar 15 06:21:29 2012] You say, "Hail, Mraugl Stonecrusher"
+(1331788890)[Thu Mar 15 06:21:30 2012] \aPC 1937799 Silverlynx:Silverlynx\/a says, "Hail, Mraugl Stonecrusher"
+(1331788894)[Thu Mar 15 06:21:34 2012] You buy \aITEM 1281187795 -211147502:Dwarven Ale (Alcoholic)\/a from Mraugl Stonecrusher for 6 Silver.
+(1331788902)[Thu Mar 15 06:21:42 2012] \aNPC 35367 Snoogle Blitzed:Snoogle Blitzed\/a says, "Once again, you follow me here. Some day I will leave you alone."
+(1331788902)[Thu Mar 15 06:21:42 2012] You say, "Hail, Oldar Foambeard"
+(1331788902)[Thu Mar 15 06:21:42 2012] \aNPC 35702 Oldar Foambeard:Oldar Foambeard\/a says to you, "Good, good!  We"ll both take a swig of this here Dwarven Ale, and ya"ll see how it stands up next to me Thurgadin Ice Brew!"
+(1331788903)[Thu Mar 15 06:21:43 2012] You say to Oldar Foambeard, "Down the hatch!"
+(1331788904)[Thu Mar 15 06:21:44 2012] You say, "Hail, Oldar Foambeard"
+(1331788904)[Thu Mar 15 06:21:44 2012] \aNPC 35702 Oldar Foambeard:Oldar Foambeard\/a says to you, "Ya see what I"m saying?  Nothin".  Me gran chewed rocks with more kick in "em!  Now get us some Thurgadin Ice Brew and ya"ll see what a real drink be like."
+(1331788905)[Thu Mar 15 06:21:45 2012] You say to Oldar Foambeard, "You want me to go to Thurgadin?"
+(1331788906)[Thu Mar 15 06:21:46 2012] \aNPC 35702 Oldar Foambeard:Oldar Foambeard\/a says to you, "Nah.  I came from New Halas on the isle of Erollis.  That"s where ya"ll find the brew."
+(1331788907)[Thu Mar 15 06:21:47 2012] You say to Oldar Foambeard, "I"ll be back with the Ice Brew."
+(1331788921)[Thu Mar 15 06:22:01 2012] \aNPC 35367 Snoogle Blitzed:Snoogle Blitzed\/a says, "How many more pints do you have Buzzed? .... Really? Well I should get to drinking then."
+(1331789001)[Thu Mar 15 06:23:21 2012] Logging to "logs/Guk/eq2log_Gionae.txt" is now *ON*
+(1331789001)[Thu Mar 15 06:23:21 2012] You have entered The Commonlands.
+(1331789001)[Thu Mar 15 06:23:21 2012] Guild MOTD: Hello everyone. This is Jerome and Lorie just letting everyone know that No we are not leaving the guild other than pulling out a few toons to help with a new guild. This is too help a boy who is dying from Cancer. 
+(1331789001)[Thu Mar 15 06:23:21 2012] Guildmate: Gionae has logged in.
+(1331789001)[Thu Mar 15 06:23:21 2012] You have unread mail in your mailbox.
+(1331789001)[Thu Mar 15 06:23:21 2012] You have a new voice channel available: \aCMD vcjoin_session confctl-11983@e2p.vivox.com:<Guild Officers>\/a
+(1331789001)[Thu Mar 15 06:23:21 2012] You have a new voice channel available: \aCMD vcjoin_session confctl-11982@e2p.vivox.com:<Guild>\/a
+(1331789002)[Thu Mar 15 06:23:22 2012] You have joined "Driftwood" (12)
+(1331789002)[Thu Mar 15 06:23:22 2012] You have joined "Auction" (1)
+(1331789002)[Thu Mar 15 06:23:22 2012] You have joined "Level_1-9" (2)
+(1331789002)[Thu Mar 15 06:23:22 2012] You have joined "Level_10-19" (3)
+(1331789002)[Thu Mar 15 06:23:22 2012] You have joined "Level_20-29" (4)
+(1331789002)[Thu Mar 15 06:23:22 2012] You have joined "Level_30-39" (5)
+(1331789002)[Thu Mar 15 06:23:22 2012] You have joined "Level_40-49" (6)
+(1331789002)[Thu Mar 15 06:23:22 2012] You have joined "Level_50-59" (7)
+(1331789002)[Thu Mar 15 06:23:22 2012] You have joined "Level_60-69" (8)
+(1331789002)[Thu Mar 15 06:23:22 2012] You have joined "Level_70-79" (9)
+(1331789002)[Thu Mar 15 06:23:22 2012] You have joined "Level_80-89" (10)
+(1331789002)[Thu Mar 15 06:23:22 2012] You have joined "Necromancer" (11)
+(1331789002)[Thu Mar 15 06:23:22 2012] You have joined "Level_90" (13)
+(1331789013)[Thu Mar 15 06:23:33 2012] Message of the Day: Greetings, and welcome to Norrath!
+(1331789016)[Thu Mar 15 06:23:36 2012] \aNPC 30309 Seamus Rockpounder:Seamus Rockpounder\/a says, "The Brewday Festival is the best holiday on all of Norrath. *hic*"
+(1331789087)[Thu Mar 15 06:24:47 2012] You get better at Swimming (301/305).
+(1331789088)[Thu Mar 15 06:24:48 2012] You get better at Swimming (302/305).
+(1331789089)[Thu Mar 15 06:24:49 2012] You get better at Swimming (303/305).
+(1331789091)[Thu Mar 15 06:24:51 2012] You get better at Swimming (304/305).
+(1331789092)[Thu Mar 15 06:24:52 2012] You get better at Swimming (305/305).
+(1331789125)[Thu Mar 15 06:25:25 2012] You found a \aITEM 1267259774 270343299:cracked troll bone fragment\/a in The Commonlands (356.88, -46.00, -213.83).
+(1331789134)[Thu Mar 15 06:25:34 2012] You have found a sample of pure water.
+(1331789171)[Thu Mar 15 06:26:11 2012] You have found a pink elephant.
+(1331789259)[Thu Mar 15 06:27:39 2012] You have entered The Thundering Steppes.
+(1331789296)[Thu Mar 15 06:28:16 2012] \aPC -1 Ximba:Ximba\/a tells Level_1-9 (2), "anybody want to help with BL epic kill in the hole?"
+(1331789323)[Thu Mar 15 06:28:43 2012] You have found a flying pig.
+(1331789331)[Thu Mar 15 06:28:51 2012] \aNPC 31275 Betsy:Betsy\/a says, "Moooooooooooooooo?"
+(1331789340)[Thu Mar 15 06:29:00 2012] You grab some hops - hope Prew never finds out!
+(1331789362)[Thu Mar 15 06:29:22 2012] a skeletal protector tries to crush Utred, but misses.
+(1331789363)[Thu Mar 15 06:29:23 2012] Utred hits a drowned footsoldier for 1040 slashing damage.
+(1331789363)[Thu Mar 15 06:29:23 2012] Utred has killed a drowned footsoldier in The Thundering Steppes (308.12, -23.42, -172.26).
+(1331789414)[Thu Mar 15 06:30:14 2012] \aNPC 69120 Elowys Laceleaf:Elowys Laceleaf\/a says, "Say! Are you a collector, too?  I"m having the worst luck!"
+(1331789416)[Thu Mar 15 06:30:16 2012] You drink a \aITEM 1290416338 -1469626019:Gnomish Spirits!\/a.
+(1331789416)[Thu Mar 15 06:30:16 2012] You have run out of your chosen drink.
+(1331789417)[Thu Mar 15 06:30:17 2012] \aNPC 69120 Elowys Laceleaf:Elowys Laceleaf\/a says, "Say! Are you a collector, too?  I"m having the worst luck!"
+(1331789420)[Thu Mar 15 06:30:20 2012] \aNPC 69120 Elowys Laceleaf:Elowys Laceleaf\/a says, "Say! Are you a collector, too?  I"m having the worst luck!"
+(1331789422)[Thu Mar 15 06:30:22 2012] \aNPC 69120 Elowys Laceleaf:Elowys Laceleaf\/a says, "Say! Are you a collector, too?  I"m having the worst luck!"
+(1331789434)[Thu Mar 15 06:30:34 2012] You say, "Hail, Gurag Bloodwart"
+(1331789434)[Thu Mar 15 06:30:34 2012] \aNPC 31271 Gurag Bloodwart:Gurag Bloodwart\/a says to you, "Oh, you"re a plucky one!  There aren"t many adventurers that would approach me so directly."
+(1331789436)[Thu Mar 15 06:30:36 2012] You say to Gurag Bloodwart, "Have any of those brave souls been a Dwarf?"
+(1331789436)[Thu Mar 15 06:30:36 2012] \aNPC 31271 Gurag Bloodwart:Gurag Bloodwart\/a says to you, "Matter of fact, one was!  A sweet talker by the name of Gilin.  Do you have a message from him?"
+(1331789437)[Thu Mar 15 06:30:37 2012] You say to Gurag Bloodwart, "No.  I was just trying to find him."
+(1331789437)[Thu Mar 15 06:30:37 2012] \aNPC 31271 Gurag Bloodwart:Gurag Bloodwart\/a says to you, "Oh.  I haven"t seen him for weeks."
+(1331789438)[Thu Mar 15 06:30:38 2012] You say to Gurag Bloodwart, "Good day, Gurag."
+(1331789447)[Thu Mar 15 06:30:47 2012] You say, "Hail, Gurag Bloodwart"
+(1331789447)[Thu Mar 15 06:30:47 2012] \aNPC 31260 Gurag Bloodwart:Gurag Bloodwart\/a says to you, "If you see Gilin let him know I have not forgotten him."
+(1331789448)[Thu Mar 15 06:30:48 2012] You say to Gurag Bloodwart, "I"ll do that."
+(1331789454)[Thu Mar 15 06:30:54 2012] \aNPC 69120 Elowys Laceleaf:Elowys Laceleaf\/a says, "Say! Are you a collector, too?  I"m having the worst luck!"
+(1331789458)[Thu Mar 15 06:30:58 2012] \aNPC 69120 Elowys Laceleaf:Elowys Laceleaf\/a says, "Say! Are you a collector, too?  I"m having the worst luck!"
+(1331789482)[Thu Mar 15 06:31:22 2012] You have found a sample of pure water.
+(1331876184)[Fri Mar 16 06:36:24 2012] Logging to "logs/Guk/eq2log_Gionae.txt" is now *ON*
+(1331876184)[Fri Mar 16 06:36:24 2012] You have entered Enchanted Lands.
+(1331876184)[Fri Mar 16 06:36:24 2012] Guild MOTD: Hello everyone. This is Jerome and Lorie just letting everyone know that No we are not leaving the guild other than pulling out a few toons to help with a new guild. This is too help a boy who is dying from Cancer. 
+(1331876184)[Fri Mar 16 06:36:24 2012] Guildmate: Gionae has logged in.
+(1331876184)[Fri Mar 16 06:36:24 2012] You have unread mail in your mailbox.
+(1331876184)[Fri Mar 16 06:36:24 2012] You have a new voice channel available: \aCMD vcjoin_session confctl-11982@e2p.vivox.com:<Guild>\/a
+(1331876184)[Fri Mar 16 06:36:24 2012] You have a new voice channel available: \aCMD vcjoin_session confctl-11983@e2p.vivox.com:<Guild Officers>\/a
+(1331876185)[Fri Mar 16 06:36:25 2012] You have joined "Driftwood" (12)
+(1331876185)[Fri Mar 16 06:36:25 2012] You have joined "Auction" (1)
+(1331876185)[Fri Mar 16 06:36:25 2012] You have joined "Level_1-9" (2)
+(1331876185)[Fri Mar 16 06:36:25 2012] You have joined "Level_10-19" (3)
+(1331876185)[Fri Mar 16 06:36:25 2012] You have joined "Level_20-29" (4)
+(1331876185)[Fri Mar 16 06:36:25 2012] You have joined "Level_30-39" (5)
+(1331876185)[Fri Mar 16 06:36:25 2012] You have joined "Level_40-49" (6)
+(1331876185)[Fri Mar 16 06:36:25 2012] You have joined "Level_50-59" (7)
+(1331876185)[Fri Mar 16 06:36:25 2012] You have joined "Level_60-69" (8)
+(1331876185)[Fri Mar 16 06:36:25 2012] You have joined "Level_70-79" (9)
+(1331876185)[Fri Mar 16 06:36:25 2012] You have joined "Level_80-89" (10)
+(1331876185)[Fri Mar 16 06:36:25 2012] You have joined "Necromancer" (11)
+(1331876185)[Fri Mar 16 06:36:25 2012] You have joined "Level_90" (13)
+(1331876201)[Fri Mar 16 06:36:41 2012] Message of the Day: Greetings, and welcome to Norrath!
+(1331876202)[Fri Mar 16 06:36:42 2012] You get better at Alcohol Tolerance (6/305).
+(1331876214)[Fri Mar 16 06:36:54 2012] \aNPC 1777410 a Strange Cabbage:a Strange Cabbage\/a says, "How many tentacles does a squid have?"
+(1331876217)[Fri Mar 16 06:36:57 2012] \aPC -1 Eliaas:Eliaas\/a says to the guild, "morning Mathias"
+(1331876237)[Fri Mar 16 06:37:17 2012] \aNPC 1777410 a Strange Cabbage:a Strange Cabbage\/a says, "Have you always had three heads?"
+(1331876251)[Fri Mar 16 06:37:31 2012] Weddo begins to command the elemental spirits.
+(1331876262)[Fri Mar 16 06:37:42 2012] \aNPC 1777410 a Strange Cabbage:a Strange Cabbage\/a says, "How many tentacles does a squid have?"
+(1331876276)[Fri Mar 16 06:37:56 2012] You say to the guild, "Good morning"
+(1331876293)[Fri Mar 16 06:38:13 2012] \aNPC 1777410 a Strange Cabbage:a Strange Cabbage\/a says, "Hardbly Darbly Doo!"
+(1331876304)[Fri Mar 16 06:38:24 2012] You have found a talking cabbage.
+(1331876316)[Fri Mar 16 06:38:36 2012] \aPC -1 Eliaas:Eliaas\/a says to the guild, "how have u been ?"
+(1331876329)[Fri Mar 16 06:38:49 2012] You have entered The Feerrott.
+(1331876344)[Fri Mar 16 06:39:04 2012] You have found a lizard toy.
+(1331876441)[Fri Mar 16 06:40:41 2012] You say to the guild, "psssst - please dont speak soooo loud - have a big hangover from last night ;)"
+(1331876458)[Fri Mar 16 06:40:58 2012] \aPC -1 Eliaas:Eliaas\/a says to the guild, "will try not to "
+(1331876581)[Fri Mar 16 06:43:01 2012] Logging to "logs/Guk/eq2log_Gionae.txt" is now *ON*
+(1331876581)[Fri Mar 16 06:43:01 2012] You have entered Frostfang Sea.
+(1331876581)[Fri Mar 16 06:43:01 2012] Guild MOTD: Hello everyone. This is Jerome and Lorie just letting everyone know that No we are not leaving the guild other than pulling out a few toons to help with a new guild. This is too help a boy who is dying from Cancer. 
+(1331876581)[Fri Mar 16 06:43:01 2012] Guildmate: Gionae has logged in.
+(1331876581)[Fri Mar 16 06:43:01 2012] You have unread mail in your mailbox.
+(1331876581)[Fri Mar 16 06:43:01 2012] You have a new voice channel available: \aCMD vcjoin_session confctl-11982@e2p.vivox.com:<Guild>\/a
+(1331876581)[Fri Mar 16 06:43:01 2012] You have a new voice channel available: \aCMD vcjoin_session confctl-11983@e2p.vivox.com:<Guild Officers>\/a
+(1331876581)[Fri Mar 16 06:43:01 2012] You have joined "Driftwood" (12)
+(1331876581)[Fri Mar 16 06:43:01 2012] You have joined "Auction" (1)
+(1331876581)[Fri Mar 16 06:43:01 2012] You have joined "Level_1-9" (2)
+(1331876581)[Fri Mar 16 06:43:01 2012] You have joined "Level_10-19" (3)
+(1331876581)[Fri Mar 16 06:43:01 2012] You have joined "Level_20-29" (4)
+(1331876581)[Fri Mar 16 06:43:01 2012] You have joined "Level_30-39" (5)
+(1331876581)[Fri Mar 16 06:43:01 2012] You have joined "Level_40-49" (6)
+(1331876581)[Fri Mar 16 06:43:01 2012] You have joined "Level_50-59" (7)
+(1331876581)[Fri Mar 16 06:43:01 2012] You have joined "Level_60-69" (8)
+(1331876581)[Fri Mar 16 06:43:01 2012] You have joined "Level_70-79" (9)
+(1331876581)[Fri Mar 16 06:43:01 2012] You have joined "Level_80-89" (10)
+(1331876582)[Fri Mar 16 06:43:02 2012] You have joined "Necromancer" (11)
+(1331876582)[Fri Mar 16 06:43:02 2012] You have joined "Level_90" (13)
+(1331876596)[Fri Mar 16 06:43:16 2012] Message of the Day: Greetings, and welcome to Norrath!
+(1331876602)[Fri Mar 16 06:43:22 2012] You say to the guild, "sorry still have troubles while zoning"
+(1331876604)[Fri Mar 16 06:43:24 2012] \aNPC 41084 a Far Seas dockhand:a Far Seas dockhand\/a says, "Safe travels to you."
+(1331876621)[Fri Mar 16 06:43:41 2012] \aPC -1 Eliaas:Eliaas\/a says to the guild, "seen alot of that lately"
+(1331876626)[Fri Mar 16 06:43:46 2012] Eliaas looted the Legendary \aITEM 287997602 -936006131:Arcanic Pantaloons of the Wasteland Magus\/a.
+(1331876633)[Fri Mar 16 06:43:53 2012] You say to the guild, "iam fine. College is going well and our big down under vacation is cominging fast"
+(1331876640)[Fri Mar 16 06:44:00 2012] You say to the guild, "gratz"
+(1331876726)[Fri Mar 16 06:45:26 2012] You say to the guild, "its really special doing brewday quests which an real life hangover"
+(1331876742)[Fri Mar 16 06:45:42 2012] \aNPC 60402 Tetda Rockstein:Tetda Rockstein\/a says to you, "Hey!  What do you think yer doin"!?  That ale"s way too strong fer the likes of ya."
+(1331876745)[Fri Mar 16 06:45:45 2012] You say to Tetda Rockstein, "Oldar Foambeard sent me to get some for him."
+(1331876746)[Fri Mar 16 06:45:46 2012] \aNPC 60402 Tetda Rockstein:Tetda Rockstein\/a says to you, "If that"s the case, then ya"ll gladly prove it.  Wrestle me for the Ice Brew!"
+(1331876746)[Fri Mar 16 06:45:46 2012] You say to Tetda Rockstein, "Let me prepare first."
+(1331876749)[Fri Mar 16 06:45:49 2012] You say, "Hail, Tetda Rockstein"
+(1331876749)[Fri Mar 16 06:45:49 2012] \aNPC 60402 Tetda Rockstein:Tetda Rockstein\/a says to you, "Hey!  What do you think yer doin"!?  That ale"s way too strong fer the likes of ya."
+(1331876751)[Fri Mar 16 06:45:51 2012] You say to Tetda Rockstein, "Oldar Foambeard sent me to get some for him."
+(1331876751)[Fri Mar 16 06:45:51 2012] \aPC -1 Eliaas:Eliaas\/a says to the guild, "oh yeah i bet it is lol"
+(1331876752)[Fri Mar 16 06:45:52 2012] \aNPC 60402 Tetda Rockstein:Tetda Rockstein\/a says to you, "If that"s the case, then ya"ll gladly prove it.  Wrestle me for the Ice Brew!"
+(1331876753)[Fri Mar 16 06:45:53 2012] You say to Tetda Rockstein, "I can do that!"
+(1331876753)[Fri Mar 16 06:45:53 2012] \aNPC 6134488 Tetda Rockstein:Tetda Rockstein\/a says, "Wrestle me to prove ya deserve that brew!"
+(1331876754)[Fri Mar 16 06:45:54 2012] Tetda Rockstein tries to crush Shalandra, but misses.
+(1331876755)[Fri Mar 16 06:45:55 2012] Shalandra"s Graven Breath hits Tetda Rockstein for 239 disease damage.
+(1331876756)[Fri Mar 16 06:45:56 2012] Shalandra tries to slash Tetda Rockstein, but misses.
+(1331876757)[Fri Mar 16 06:45:57 2012] Tetda Rockstein hits Shalandra for 318 crushing damage.
+(1331876757)[Fri Mar 16 06:45:57 2012] Shalandra"s Graven Breath hits Tetda Rockstein for 86 disease damage.
+(1331876758)[Fri Mar 16 06:45:58 2012] Shalandra hits Tetda Rockstein for 199 slashing damage.
+(1331876759)[Fri Mar 16 06:45:59 2012] Shalandra"s Graven Breath hits Tetda Rockstein for 86 disease damage.
+(1331876760)[Fri Mar 16 06:46:00 2012] Tetda Rockstein hits Shalandra for 381 crushing damage.
+(1331876760)[Fri Mar 16 06:46:00 2012] There is no eligible target for this spell.
+(1331876761)[Fri Mar 16 06:46:01 2012] Shalandra"s Graven Breath hits Tetda Rockstein for 86 disease damage.
+(1331876761)[Fri Mar 16 06:46:01 2012] Shalandra"s Graven Strike increases THEIR hate with Tetda Rockstein by 1348 threat.
+(1331876761)[Fri Mar 16 06:46:01 2012] Shalandra"s Graven Strike hits Tetda Rockstein for 174 disease damage.
+(1331876761)[Fri Mar 16 06:46:01 2012] Shalandra"s Graven Strike hits Tetda Rockstein for 31 disease damage.
+(1331876762)[Fri Mar 16 06:46:02 2012] Tetda Rockstein"s Overpower hits Shalandra for 301 crushing damage.
+(1331876762)[Fri Mar 16 06:46:02 2012] Shalandra feels one of their bones shatter.
+(1331876763)[Fri Mar 16 06:46:03 2012] YOUR Dooming Darkness hits Tetda Rockstein for 103 disease damage.
+(1331876763)[Fri Mar 16 06:46:03 2012] Tetda Rockstein is engulfed in darkness!
+(1331876763)[Fri Mar 16 06:46:03 2012] Tetda Rockstein hits Shalandra for 495 crushing damage.
+(1331876763)[Fri Mar 16 06:46:03 2012] Tetda Rockstein multi attacks Shalandra for 390 crushing damage.
+(1331876764)[Fri Mar 16 06:46:04 2012] Shalandra"s Graven Strike hits Tetda Rockstein for 31 disease damage.
+(1331876765)[Fri Mar 16 06:46:05 2012] Tetda Rockstein hits Shalandra for 414 crushing damage.
+(1331876766)[Fri Mar 16 06:46:06 2012] YOUR Soulrot hits Tetda Rockstein for 241 disease damage.
+(1331876766)[Fri Mar 16 06:46:06 2012] Tetda Rockstein"s soul begins to rot.
+(1331876767)[Fri Mar 16 06:46:07 2012] YOUR Soulrot hits Tetda Rockstein for 85 disease damage.
+(1331876767)[Fri Mar 16 06:46:07 2012] YOUR Dooming Darkness hits Tetda Rockstein for 37 disease damage.
+(1331876767)[Fri Mar 16 06:46:07 2012] Shalandra"s Graven Strike hits Tetda Rockstein for 31 disease damage.
+(1331876767)[Fri Mar 16 06:46:07 2012] Tetda Rockstein"s Ruin hits Shalandra for 145 slashing damage.
+(1331876767)[Fri Mar 16 06:46:07 2012] One of Shalandra"s limbs becomes ruined.
+(1331876768)[Fri Mar 16 06:46:08 2012] YOUR Soulrot hits Tetda Rockstein for 104 disease damage.
+(1331876768)[Fri Mar 16 06:46:08 2012] Tetda Rockstein hits Shalandra for 490 crushing damage.
+(1331876768)[Fri Mar 16 06:46:08 2012] YOUR Vampire Bats hits Tetda Rockstein for 233 piercing damage.
+(1331876768)[Fri Mar 16 06:46:08 2012] Tetda Rockstein staggers as swarming bats surround her!
+(1331876768)[Fri Mar 16 06:46:08 2012] You get better at Disruption (301/305).
+(1331876769)[Fri Mar 16 06:46:09 2012] YOUR Soulrot hits Tetda Rockstein for 96 disease damage.
+(1331876770)[Fri Mar 16 06:46:10 2012] YOUR Soulrot hits Tetda Rockstein for 91 disease damage.
+(1331876770)[Fri Mar 16 06:46:10 2012] YOUR Bloodcoil hits Tetda Rockstein for 350 disease damage.
+(1331876770)[Fri Mar 16 06:46:10 2012] Tetda Rockstein looks weakened!
+(1331876770)[Fri Mar 16 06:46:10 2012] Tetda Rockstein hits Shalandra for 398 crushing damage.
+(1331876770)[Fri Mar 16 06:46:10 2012] Shalandra"s Graven Strike hits Tetda Rockstein for 31 disease damage.
+(1331876772)[Fri Mar 16 06:46:12 2012] YOUR Vampire Bats hits Tetda Rockstein for 78 piercing damage.
+(1331876772)[Fri Mar 16 06:46:12 2012] Tetda Rockstein hits Shalandra for 492 crushing damage.
+(1331876773)[Fri Mar 16 06:46:13 2012] Tetda Rockstein"s Ruin hits Shalandra for 97 slashing damage.
+(1331876774)[Fri Mar 16 06:46:14 2012] YOUR Bloodcoil hits Tetda Rockstein for 203 disease damage.
+(1331876775)[Fri Mar 16 06:46:15 2012] Tetda Rockstein hits Shalandra for 511 crushing damage.
+(1331876775)[Fri Mar 16 06:46:15 2012] Tetda Rockstein looks helpless!
+(1331876776)[Fri Mar 16 06:46:16 2012] YOUR Vampire Bats hits Tetda Rockstein for 83 piercing damage.
+(1331876778)[Fri Mar 16 06:46:18 2012] Tetda Rockstein"s Ruin hits Shalandra for 92 slashing damage.
+(1331876778)[Fri Mar 16 06:46:18 2012] YOUR Lifetap hits Tetda Rockstein for 1103 disease damage.
+(1331876778)[Fri Mar 16 06:46:18 2012] YOUR Bloodcoil hits Tetda Rockstein for 187 disease damage.
+(1331876780)[Fri Mar 16 06:46:20 2012] Tetda Rockstein hits YOU for 389 crushing damage.
+(1331876780)[Fri Mar 16 06:46:20 2012] Tetda Rockstein is attended by the Blighted Horde!
+(1331876780)[Fri Mar 16 06:46:20 2012] YOUR Vampire Bats hits Tetda Rockstein for 88 piercing damage.
+(1331876780)[Fri Mar 16 06:46:20 2012] Gionae"s blighted horde tries to crush Tetda Rockstein, but misses.
+(1331876780)[Fri Mar 16 06:46:20 2012] Tetda Rockstein is hit for 298 crushing damage.
+(1331876780)[Fri Mar 16 06:46:20 2012] Tetda Rockstein is hit for 212 crushing damage.
+(1331876782)[Fri Mar 16 06:46:22 2012] YOUR Bloodcoil hits Tetda Rockstein for 190 disease damage.
+(1331876782)[Fri Mar 16 06:46:22 2012] Tetda Rockstein hits YOU for 312 crushing damage.
+(1331876783)[Fri Mar 16 06:46:23 2012] Tetda Rockstein"s Ruin hits Shalandra for 86 slashing damage.
+(1331876783)[Fri Mar 16 06:46:23 2012] Gionae"s blighted horde hits Tetda Rockstein for 261 crushing damage.
+(1331876783)[Fri Mar 16 06:46:23 2012] Gionae"s blighted horde hits Tetda Rockstein for 201 crushing damage.
+(1331876783)[Fri Mar 16 06:46:23 2012] Gionae"s blighted horde hits Tetda Rockstein for 209 crushing damage.
+(1331876783)[Fri Mar 16 06:46:23 2012] Tetda Rockstein feels weak as dark spirits encircle her.
+(1331876784)[Fri Mar 16 06:46:24 2012] Tetda Rockstein hits YOU for 306 crushing damage.
+(1331876785)[Fri Mar 16 06:46:25 2012] YOUR Vampire Bats hits Tetda Rockstein for 84 piercing damage.
+(1331876785)[Fri Mar 16 06:46:25 2012] YOUR Absorb Magic confounds Tetda Rockstein draining 1 92 mental of power.
+(1331876785)[Fri Mar 16 06:46:25 2012] Tetda Rockstein feels the arcane energy leave her.
+(1331876785)[Fri Mar 16 06:46:25 2012] YOUR Absorb Magic refreshes YOU for 61 mana points.
+(1331876786)[Fri Mar 16 06:46:26 2012] Gionae"s blighted horde hits Tetda Rockstein for 224 crushing damage.
+(1331876786)[Fri Mar 16 06:46:26 2012] Gionae"s blighted horde hits Tetda Rockstein for 242 crushing damage.
+(1331876786)[Fri Mar 16 06:46:26 2012] Gionae"s blighted horde hits Tetda Rockstein for 287 crushing damage.
+(1331876786)[Fri Mar 16 06:46:26 2012] YOUR Bloodcoil hits Tetda Rockstein for 176 disease damage.
+(1331876786)[Fri Mar 16 06:46:26 2012] Tetda Rockstein hits YOU for 395 crushing damage.
+(1331876788)[Fri Mar 16 06:46:28 2012] Tetda Rockstein"s Ruin hits Shalandra for 95 slashing damage.
+(1331876788)[Fri Mar 16 06:46:28 2012] Tetda Rockstein gags uncontrollably!
+(1331876788)[Fri Mar 16 06:46:28 2012] Gionae"s awaken grave"s Rapid Decay hits Tetda Rockstein for 221 disease damage.
+(1331876788)[Fri Mar 16 06:46:28 2012] Gionae"s blighted horde hits Tetda Rockstein for 286 crushing damage.
+(1331876788)[Fri Mar 16 06:46:28 2012] Gionae"s blighted horde hits Tetda Rockstein for 206 crushing damage.
+(1331876788)[Fri Mar 16 06:46:28 2012] Gionae"s blighted horde tries to crush Tetda Rockstein, but misses.
+(1331876789)[Fri Mar 16 06:46:29 2012] Gionae"s awaken grave hits Tetda Rockstein for 352 disease damage.
+(1331876789)[Fri Mar 16 06:46:29 2012] YOUR Vampire Bats hits Tetda Rockstein for 80 piercing damage.
+(1331876789)[Fri Mar 16 06:46:29 2012] Tetda Rockstein tries to crush YOU, but misses.
+(1331876790)[Fri Mar 16 06:46:30 2012] Tetda Rockstein winces as a grisly mark brands her!
+(1331876790)[Fri Mar 16 06:46:30 2012] YOUR Bloodcoil hits Tetda Rockstein for 203 disease damage.
+(1331876791)[Fri Mar 16 06:46:31 2012] Tetda Rockstein hits YOU for 286 crushing damage.
+(1331876791)[Fri Mar 16 06:46:31 2012] Gionae"s blighted horde hits Tetda Rockstein for 316 crushing damage.
+(1331876791)[Fri Mar 16 06:46:31 2012] Gionae"s blighted horde hits Tetda Rockstein for 320 crushing damage.
+(1331876791)[Fri Mar 16 06:46:31 2012] Gionae"s blighted horde hits Tetda Rockstein for 280 crushing damage.
+(1331876791)[Fri Mar 16 06:46:31 2012] Gionae"s awaken grave"s Rapid Decay hits Tetda Rockstein for 217 disease damage.
+(1331876792)[Fri Mar 16 06:46:32 2012] Gionae"s awaken grave tries to disease Tetda Rockstein, but Tetda Rockstein parries.
+(1331876793)[Fri Mar 16 06:46:33 2012] YOUR Vampire Bats hits Tetda Rockstein for 90 piercing damage.
+(1331876793)[Fri Mar 16 06:46:33 2012] Tetda Rockstein hits YOU for 291 crushing damage.
+(1331876793)[Fri Mar 16 06:46:33 2012] Gionae"s blighted horde tries to crush Tetda Rockstein, but misses.
+(1331876793)[Fri Mar 16 06:46:33 2012] Gionae"s blighted horde hits Tetda Rockstein for 306 crushing damage.
+(1331876793)[Fri Mar 16 06:46:33 2012] Gionae"s blighted horde hits Tetda Rockstein for 207 crushing damage.
+(1331876794)[Fri Mar 16 06:46:34 2012] Gionae"s awaken grave"s Rapid Decay hits Tetda Rockstein for 321 disease damage.
+(1331876794)[Fri Mar 16 06:46:34 2012] YOUR Bloodcoil hits Tetda Rockstein for 200 disease damage.
+(1331876795)[Fri Mar 16 06:46:35 2012] Gionae"s awaken grave tries to disease Tetda Rockstein, but misses.
+(1331876795)[Fri Mar 16 06:46:35 2012] Tetda Rockstein hits YOU for 350 crushing damage.
+(1331876795)[Fri Mar 16 06:46:35 2012] Tetda Rockstein multi attacks YOU for 394 crushing damage.
+(1331876795)[Fri Mar 16 06:46:35 2012] You get better at Focus (297/305).
+(1331876796)[Fri Mar 16 06:46:36 2012] Gionae"s blighted horde hits Tetda Rockstein for 199 crushing damage.
+(1331876796)[Fri Mar 16 06:46:36 2012] Gionae"s blighted horde tries to crush Tetda Rockstein, but misses.
+(1331876796)[Fri Mar 16 06:46:36 2012] Gionae"s blighted horde tries to crush Tetda Rockstein, but misses.
+(1331876797)[Fri Mar 16 06:46:37 2012] YOUR Lifetap hits Tetda Rockstein for 1103 disease damage.
+(1331876797)[Fri Mar 16 06:46:37 2012] You have killed Tetda Rockstein in Frostfang Sea (-385.99, 174.15, -143.48).
+(1331876797)[Fri Mar 16 06:46:37 2012] You have already been awarded Alternate Advancement experience for this kill.
+(1331876797)[Fri Mar 16 06:46:37 2012] You gain 90 XP plus 234 XP from bonuses!
+(1331876797)[Fri Mar 16 06:46:37 2012] You gain 65 XP for defeating the encounter plus 170 XP from bonuses!
+(1331876797)[Fri Mar 16 06:46:37 2012] YOUR Lifetap heals YOU for 572 hit points.
+(1331876865)[Fri Mar 16 06:47:45 2012] You have entered Timorous Deep.
+(1331876879)[Fri Mar 16 06:47:59 2012] \aPC -1 Krazee:Krazee\/a tells Level_1-9 (2), "is marneus on in any form"
+(1331876903)[Fri Mar 16 06:48:23 2012] Eliaas looted the Fabled \aITEM -1104220528 -371711666:Sash of the Wasteland Herald\/a.
+(1331876903)[Fri Mar 16 06:48:23 2012] Eliaas looted the Legendary \aITEM 115757285 -1372600050:Wrist Wraps of the Desert Madman\/a.
+(1331876908)[Fri Mar 16 06:48:28 2012] You say, "Hail, Smurg Fleshreaper"
+(1331876908)[Fri Mar 16 06:48:28 2012] \aNPC 28728 Smurg Fleshreaper:Smurg Fleshreaper\/a says to you, "Hey Sailor!  Got some free time?"
+(1331876909)[Fri Mar 16 06:48:29 2012] You say to Smurg Fleshreaper, "Oh, no.  I am very busy!"
+(1331876909)[Fri Mar 16 06:48:29 2012] \aNPC 28728 Smurg Fleshreaper:Smurg Fleshreaper\/a says to you, "That"s too bad."
+(1331876910)[Fri Mar 16 06:48:30 2012] You say to Smurg Fleshreaper, "I was wondering something though.  Have you met a Dwarf by the name of Gilin?"
+(1331876910)[Fri Mar 16 06:48:30 2012] \aNPC 28728 Smurg Fleshreaper:Smurg Fleshreaper\/a says to you, "Oh, yes!  He was that handsome bearded one the other day."
+(1331876910)[Fri Mar 16 06:48:30 2012] You say to Smurg Fleshreaper, "That"s what I needed to know. Thanks!"
+(1331876917)[Fri Mar 16 06:48:37 2012] You say, "Hail, Smurg Fleshreaper"
+(1331876917)[Fri Mar 16 06:48:37 2012] \aNPC 28721 Smurg Fleshreaper:Smurg Fleshreaper\/a says to you, "Enjoy your travels, Sailor."
+(1331876917)[Fri Mar 16 06:48:37 2012] You say to Smurg Fleshreaper, "I am sure I will."
+(1331876938)[Fri Mar 16 06:48:58 2012] You say, "Hail, Tarcha Niba"dn"
+(1331876938)[Fri Mar 16 06:48:58 2012] \aNPC 28740 Tarcha Niba"dn:Tarcha Niba"dn\/a says to you, "My greetings to you!  May I be of service?"
+(1331876939)[Fri Mar 16 06:48:59 2012] You say to Tarcha Niba"dn, "Perhaps.  Are you acquainted with a dwarf by the name of Gilin?"
+(1331876939)[Fri Mar 16 06:48:59 2012] \aNPC 28740 Tarcha Niba"dn:Tarcha Niba"dn\/a says to you, "Affirmative.  My path has crossed with that of the outlander, Gilin Rockbreath.  Why do you inquire about him?"
+(1331876940)[Fri Mar 16 06:49:00 2012] You say to Tarcha Niba"dn, "I"m just trying to find him."
+(1331876940)[Fri Mar 16 06:49:00 2012] \aNPC 28740 Tarcha Niba"dn:Tarcha Niba"dn\/a says to you, "Then I wish you the best of luck, Gionae."
+(1331876940)[Fri Mar 16 06:49:00 2012] You say to Tarcha Niba"dn, "Thank you."
+(1331876949)[Fri Mar 16 06:49:09 2012] You say, "Hail, Tarcha Niba"dn"
+(1331876949)[Fri Mar 16 06:49:09 2012] \aNPC 28735 Tarcha Niba"dn:Tarcha Niba"dn\/a says to you, "May I be of further service to you, Gionae?"
+(1331876951)[Fri Mar 16 06:49:11 2012] You say to Tarcha Niba"dn, "No.  That"s all."
+(1331877094)[Fri Mar 16 06:51:34 2012] Logging to "logs/Guk/eq2log_Gionae.txt" is now *ON*
+(1331877094)[Fri Mar 16 06:51:34 2012] You have entered Nektulos Forest.
+(1331877094)[Fri Mar 16 06:51:34 2012] Guild MOTD: Hello everyone. This is Jerome and Lorie just letting everyone know that No we are not leaving the guild other than pulling out a few toons to help with a new guild. This is too help a boy who is dying from Cancer. 
+(1331877094)[Fri Mar 16 06:51:34 2012] Guildmate: Gionae has logged in.
+(1331877094)[Fri Mar 16 06:51:34 2012] You have unread mail in your mailbox.
+(1331877094)[Fri Mar 16 06:51:34 2012] You have a new voice channel available: \aCMD vcjoin_session confctl-11982@e2p.vivox.com:<Guild>\/a
+(1331877094)[Fri Mar 16 06:51:34 2012] You have a new voice channel available: \aCMD vcjoin_session confctl-11983@e2p.vivox.com:<Guild Officers>\/a
+(1331877094)[Fri Mar 16 06:51:34 2012] You have joined "Driftwood" (12)
+(1331877094)[Fri Mar 16 06:51:34 2012] You have joined "Auction" (1)
+(1331877094)[Fri Mar 16 06:51:34 2012] You have joined "Level_1-9" (2)
+(1331877094)[Fri Mar 16 06:51:34 2012] You have joined "Level_10-19" (3)
+(1331877094)[Fri Mar 16 06:51:34 2012] You have joined "Level_20-29" (4)
+(1331877094)[Fri Mar 16 06:51:34 2012] You have joined "Level_30-39" (5)
+(1331877094)[Fri Mar 16 06:51:34 2012] You have joined "Level_40-49" (6)
+(1331877095)[Fri Mar 16 06:51:35 2012] You have joined "Level_50-59" (7)
+(1331877095)[Fri Mar 16 06:51:35 2012] You have joined "Level_60-69" (8)
+(1331877095)[Fri Mar 16 06:51:35 2012] You have joined "Level_70-79" (9)
+(1331877095)[Fri Mar 16 06:51:35 2012] You have joined "Level_80-89" (10)
+(1331877095)[Fri Mar 16 06:51:35 2012] You have joined "Necromancer" (11)
+(1331877095)[Fri Mar 16 06:51:35 2012] You have joined "Level_90" (13)
+(1331877106)[Fri Mar 16 06:51:46 2012] Message of the Day: Greetings, and welcome to Norrath!
+(1331877118)[Fri Mar 16 06:51:58 2012] You say, "Hail, A griffin tamer"
+(1331877118)[Fri Mar 16 06:51:58 2012] \aNPC 73324 a griffin tamer:a griffin tamer\/a says to you, "Greetings traveler, how can I assist you today?"
+(1331877118)[Fri Mar 16 06:51:58 2012] You say to a griffin tamer, "I would like to travel."
+(1331877121)[Fri Mar 16 06:52:01 2012] \aPC -1 Rustedd:Rustedd\/a tells Level_1-9 (2), "Rw forming"
+(1331877203)[Fri Mar 16 06:53:23 2012] You have found a sample of pure water.
+(1331877230)[Fri Mar 16 06:53:50 2012] You have entered Antonica.
+(1331877238)[Fri Mar 16 06:53:58 2012] You get better at Alcohol Tolerance (7/305).
+(1331877264)[Fri Mar 16 06:54:24 2012] You have found a sample of pure water.
+(1331877272)[Fri Mar 16 06:54:32 2012] You say, "Hail, Dala Plateheart"
+(1331877272)[Fri Mar 16 06:54:32 2012] \aNPC 32834 Dala Plateheart:Dala Plateheart\/a says to you, "Here for the bangers and mush, friend?  It"s some of the best you can find during Brewday."
+(1331877273)[Fri Mar 16 06:54:33 2012] You say to Dala Plateheart, "No.  I was wondering if a Dwarf by the name of Gilin had come around here, lately."
+(1331877273)[Fri Mar 16 06:54:33 2012] \aNPC 32834 Dala Plateheart:Dala Plateheart\/a says to you, "Aye.  That burly man of rock came around some time ago.  I haven"t had the pleasure of seeing him again, though."
+(1331877274)[Fri Mar 16 06:54:34 2012] You say to Dala Plateheart, "That answers my question.  I appreciate your time, Dala."
+(1331877279)[Fri Mar 16 06:54:39 2012] You say, "Hail, Dala Plateheart"
+(1331877279)[Fri Mar 16 06:54:39 2012] \aNPC 32834 Dala Plateheart:Dala Plateheart\/a says to you, "Have you changed your mind about the bangers and mush, Gionae?"
+(1331877280)[Fri Mar 16 06:54:40 2012] You say to Dala Plateheart, "Nope.  I"ll be on my way now."
+(1331877296)[Fri Mar 16 06:54:56 2012] Eliaas looted the Legendary \aITEM -1417474404 410341691:Tuft of Scaled Wolf Scales\/a.
+(1331877440)[Fri Mar 16 06:57:20 2012] You added: cracked troll bone fragment to troll bone fragment collection.
+(1331877442)[Fri Mar 16 06:57:22 2012] \aPC -1 Frantik:Frantik\/a tells Level_1-9 (2), "lmao omg i love this server "
+(1331877444)[Fri Mar 16 06:57:24 2012] \aNPC 32088 Seamus Rockpounder:Seamus Rockpounder\/a says, "When ya come out of the bar bring us more ale!"
+(1331877511)[Fri Mar 16 06:58:31 2012] Logging to "logs/Guk/eq2log_Gionae.txt" is now *ON*
+(1331877511)[Fri Mar 16 06:58:31 2012] You have entered Bar of Brell.
+(1331877511)[Fri Mar 16 06:58:31 2012] Guild MOTD: Hello everyone. This is Jerome and Lorie just letting everyone know that No we are not leaving the guild other than pulling out a few toons to help with a new guild. This is too help a boy who is dying from Cancer. 
+(1331877512)[Fri Mar 16 06:58:32 2012] Guildmate: Gionae has logged in.
+(1331877512)[Fri Mar 16 06:58:32 2012] You have unread mail in your mailbox.
+(1331877512)[Fri Mar 16 06:58:32 2012] You have a new voice channel available: \aCMD vcjoin_session confctl-11983@e2p.vivox.com:<Guild Officers>\/a
+(1331877512)[Fri Mar 16 06:58:32 2012] You have a new voice channel available: \aCMD vcjoin_session confctl-11982@e2p.vivox.com:<Guild>\/a
+(1331877512)[Fri Mar 16 06:58:32 2012] You have joined "Driftwood" (12)
+(1331877512)[Fri Mar 16 06:58:32 2012] You have joined "Auction" (1)
+(1331877512)[Fri Mar 16 06:58:32 2012] You have joined "Level_1-9" (2)
+(1331877512)[Fri Mar 16 06:58:32 2012] You have joined "Level_10-19" (3)
+(1331877512)[Fri Mar 16 06:58:32 2012] You have joined "Level_20-29" (4)
+(1331877512)[Fri Mar 16 06:58:32 2012] You have joined "Level_30-39" (5)
+(1331877512)[Fri Mar 16 06:58:32 2012] You have joined "Level_40-49" (6)
+(1331877512)[Fri Mar 16 06:58:32 2012] You have joined "Level_50-59" (7)
+(1331877512)[Fri Mar 16 06:58:32 2012] You have joined "Level_60-69" (8)
+(1331877512)[Fri Mar 16 06:58:32 2012] You have joined "Level_70-79" (9)
+(1331877512)[Fri Mar 16 06:58:32 2012] You have joined "Level_80-89" (10)
+(1331877512)[Fri Mar 16 06:58:32 2012] You have joined "Necromancer" (11)
+(1331877512)[Fri Mar 16 06:58:32 2012] You have joined "Level_90" (13)
+(1331877520)[Fri Mar 16 06:58:40 2012] Message of the Day: Greetings, and welcome to Norrath!
+(1331877521)[Fri Mar 16 06:58:41 2012] You get better at Alcohol Tolerance (8/305).
+(1331877526)[Fri Mar 16 06:58:46 2012] \aNPC 28687 Snoogle Blitzed:Snoogle Blitzed\/a says, "Once again, you follow me here. Some day I will leave you alone."
+(1331877527)[Fri Mar 16 06:58:47 2012] You say, "Hail, Gilin Rockbreath"
+(1331877527)[Fri Mar 16 06:58:47 2012] \aNPC 28394 Gilin Rockbreath:Gilin Rockbreath\/a says to you, "Am I glad to see you, Gionae!  Tell me, were any of those lasses as gorgeous as I thought they were."
+(1331877528)[Fri Mar 16 06:58:48 2012] You say to Gilin Rockbreath, "Three of them were not, but Dala Plateheart was!"
+(1331877529)[Fri Mar 16 06:58:49 2012] \aNPC 28394 Gilin Rockbreath:Gilin Rockbreath\/a says to you, "The Dwarf lass with the crimson mane?"
+(1331877529)[Fri Mar 16 06:58:49 2012] You say to Gilin Rockbreath, "That"s the one.  She"s the same with the goggles on or off."
+(1331877529)[Fri Mar 16 06:58:49 2012] You gain 4440 XP!
+(1331877529)[Fri Mar 16 06:58:49 2012] Ale Goggles

@@ -21,8 +21,8 @@ public class DeleteTimeStamp {
 		for (int i = 0; i < log.size(); i++) {
 			line = log.get(i);
 			pos = line.lastIndexOf(']') + 2;
-			line = line.substring(pos);
-			clearLog.put(i, line);
+				line = line.substring(pos);
+				clearLog.put(i, line);
 		}
 	}
 

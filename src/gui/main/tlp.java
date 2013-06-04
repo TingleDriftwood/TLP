@@ -7,6 +7,8 @@ import java.sql.Connection;
 import java.util.HashMap;
 import java.util.Map;
 
+import tools.van.log.DeleteTimeStamp;
+
 import gui.menu.DatabaseMenu;
 import gui.menu.FileMenu;
 import gui.menu.LogMenu;
@@ -28,6 +30,7 @@ public class TLP extends Application {
 
 	private BorderPane border;
 	private Map<Integer, String> log;
+	private Map<Integer, String> clog;
 	private Connection conn;
 
 	private Stage primaryStage;
@@ -72,6 +75,11 @@ public class TLP extends Application {
 
 	public void setLog(Map<Integer, String> log) {
 		this.log = log;
+	}
+
+	public Map<Integer, String> getCLog() {
+		clog = new DeleteTimeStamp(log).getClearLog();
+		return clog;
 	}
 
 	public BorderPane getBorderPane() {

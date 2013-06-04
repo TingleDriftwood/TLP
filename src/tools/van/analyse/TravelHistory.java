@@ -18,8 +18,10 @@ public class TravelHistory {
 		travelhist = new HashMap<Integer, String>();
 		int nr = 0;
 		String line;
+		System.out.println("Size of CLog: "+clog.size());
 		for (int i = 0; i < clog.size(); i++) {
 			line = clog.get(i);
+			System.out.println(line);
 			if (line.startsWith("You have entered")) {
 				travelhist.put(nr, "->" + line.substring(17));
 				nr++;
