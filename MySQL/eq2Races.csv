@@ -1,0 +1,21 @@
+Race_ID,Game_ID,Race,Alignment
+1,1,Dwarf,1
+2,1,Fae,1
+3,1,Froglok,1
+4,1,Halfling,1
+5,1,"High Elf",1
+6,1,"Wood Elf",1
+7,1,Barbarian,NULL
+8,1,Erudite,NULL
+9,1,Freeblood,NULL
+10,1,Gnome,NULL
+11,1,"Half Elf",NULL
+12,1,Human,NULL
+13,1,Kerra,NULL
+14,1,Ratonga,NULL
+15,1,Arasai,0
+16,1,"Dark Elf",0
+17,1,Iksar,0
+18,1,Ogre,0
+19,1,Sarnak,0
+20,1,Troll,0
