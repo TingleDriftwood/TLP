@@ -6,8 +6,8 @@ package tools.analyse;
 import java.io.File;
 import java.util.Map;
 
+import tools.io.LogLoader;
 import tools.van.analyse.KillList;
-import tools.van.io.LogLoader;
 import tools.van.log.DeleteTimeStamp;
 
 /**

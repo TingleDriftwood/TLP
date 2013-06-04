@@ -1,7 +1,7 @@
 /**
  * Class which loads Vanguard logfile and store the content in a map
  */
-package tools.van.io;
+package tools.io;
 
 import java.io.BufferedReader;
 import java.io.File;

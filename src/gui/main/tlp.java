@@ -7,7 +7,9 @@ import java.sql.Connection;
 import java.util.HashMap;
 import java.util.Map;
 
+import gui.menu.DatabaseMenu;
 import gui.menu.FileMenu;
+import gui.menu.LogMenu;
 import gui.menu.SideMenu;
 
 import javafx.application.Application;
@@ -48,8 +50,8 @@ public class TLP extends Application {
 		log = new HashMap<Integer, String>();
 
 		MenuBar menu = new MenuBar();
-		menu.getMenus().addAll(
-				new FileMenu(this.primaryStage, this).getFileMenu());
+		menu.getMenus().addAll(new FileMenu(this.primaryStage, this).getFileMenu(), new LogMenu(this).getLogMenu(),
+				new DatabaseMenu(this).getDatabaseMenu());
 
 		SideMenu side = new SideMenu(border, this);
 

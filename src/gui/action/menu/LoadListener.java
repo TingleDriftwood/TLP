@@ -8,7 +8,7 @@ import gui.main.TLP;
 import java.io.File;
 
 import tools.analyse.CheckKindOfLog;
-import tools.van.io.LogLoader;
+import tools.io.LogLoader;
 
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;

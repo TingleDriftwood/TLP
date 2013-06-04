@@ -6,7 +6,7 @@ package tools.log;
 import java.io.File;
 import java.util.Map;
 
-import tools.van.io.LogLoader;
+import tools.io.LogLoader;
 import tools.van.log.DeleteTimeStamp;
 
 /**
