@@ -3,8 +3,9 @@
  */
 package tools.db;
 
+import gui.window.ErrorMessage;
+
 import java.sql.DriverManager;
-import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.Properties;
 
@@ -45,9 +46,13 @@ public class MySQLConnection {
 			          + dbPort + "/" + database + "?" + "user=" + dbUser + "&"
 			          + "password=" + dbPassword);
 		} catch (ClassNotFoundException e) {
-			System.out.println("Database driver not found");
+			ErrorMessage message = new ErrorMessage();
+			message.showErrorMessage("Database driver not found");
+//			System.out.println("Database driver not found");
 		} catch (SQLException e) {
-			System.out.println("Connection not possible");
+			ErrorMessage message = new ErrorMessage();
+			message.showErrorMessage("Connection not possible");
+//			System.out.println("Connection not possible");
 		}
 	}
 
