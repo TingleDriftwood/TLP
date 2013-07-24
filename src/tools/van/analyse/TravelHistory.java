@@ -22,13 +22,16 @@ public class TravelHistory {
 		for (int i = 0; i < clog.size(); i++) {
 			line = clog.get(i);
 			System.out.println(line);
-			if (line.startsWith("You have entered")) {
+			if (line.indexOf("You have entered")!=-1) {
+			//if (line.startsWith("You have entered")) {
 				travelhist.put(nr, "->" + line.substring(17));
 				nr++;
+				System.out.println(line);
 			}
 			if (line.startsWith("You have left")) {
 				travelhist.put(nr, "<-" + line.substring(14));
 				nr++;
+				System.out.println(line);
 			}
 		}
 	}

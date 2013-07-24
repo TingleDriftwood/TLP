@@ -3,7 +3,7 @@
  */
 package tools.db;
 
-import gui.window.ErrorMessage;
+import gui.window.Message;
 
 import java.sql.DriverManager;
 import java.sql.SQLException;
@@ -38,21 +38,19 @@ public class MySQLConnection {
 			Class.forName("com.mysql.jdbc.Driver");
 			Properties connectionProps = new Properties();
 
-			connectionProps.put("user", "root");
-			connectionProps.put("password", "TN82otB$666");
-
+			connectionProps.put("user", "Tingle");
+			connectionProps.put("password", "Driftwood");
+			
 			// Initialise connection to database
 			conn = DriverManager.getConnection("jdbc:mysql://" + dbHost + ":"
 			          + dbPort + "/" + database + "?" + "user=" + dbUser + "&"
 			          + "password=" + dbPassword);
 		} catch (ClassNotFoundException e) {
-			ErrorMessage message = new ErrorMessage();
+			Message message = new Message();
 			message.showErrorMessage("Database driver not found");
-//			System.out.println("Database driver not found");
 		} catch (SQLException e) {
-			ErrorMessage message = new ErrorMessage();
+			Message message = new Message();
 			message.showErrorMessage("Connection not possible");
-//			System.out.println("Connection not possible");
 		}
 	}
 
