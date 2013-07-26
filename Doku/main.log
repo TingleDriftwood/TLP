@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2013.7.10)  24 JUL 2013 15:35
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2013.7.10)  26 JUL 2013 11:12
 entering extended mode
 **main.tex
 (C:\Users\mweigert\workspace\TLP\Doku\main.tex
@@ -1143,9 +1143,10 @@ ABD: EverySelectfont initializing macros
 LaTeX Info: Redefining \selectfont on input line 103.
 
 (C:\Users\mweigert\workspace\TLP\Doku\Deckblatt.tex
-<pic/zhaw_soe_d1.png, id=3, 1412.27625pt x 738.76pt>
+<pic/zhaw_soe_d1.png, id=43, 1412.27625pt x 738.76pt>
 File: pic/zhaw_soe_d1.png Graphic file (type png)
- <use pic/zhaw_soe_d1.png>
+
+<use pic/zhaw_soe_d1.png>
 Package pdftex.def Info: pic/zhaw_soe_d1.png used on input line 21.
 (pdftex.def)             Requested size: 282.45024pt x 147.74937pt.
 LaTeX Font Info:    Try loading font information for U+msa on input line 28.
@@ -1194,48 +1195,81 @@ File: t1cmss.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 (C:\Users\mweigert\workspace\TLP\Doku\main.toc)
 \tf@toc=\write6
 
-No file main.ind.
-No file main.bbl.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 230.
-<pic/ZHAW_logo.png, id=15, 413.545pt x 432.61626pt>
+(C:\Users\mweigert\workspace\TLP\Doku\doc/Java/Java.tex
+<pic/ZHAW_logo.png, id=65, 413.545pt x 432.61626pt>
 File: pic/ZHAW_logo.png Graphic file (type png)
  <use pic/ZHAW_logo.png>
-Package pdftex.def Info: pic/ZHAW_logo.png used on input line 230.
+Package pdftex.def Info: pic/ZHAW_logo.png used on input line 1.
 (pdftex.def)             Requested size: 33.08427pt x 34.61pt.
 
 [1
 
 
  <C:/Users/mweigert/workspace/TLP/Doku/pic/ZHAW_logo.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 230.
+Kapitel 1.
 
-(C:\Users\mweigert\workspace\TLP\Doku\main.aux
+Class scrbook Warning: \float@addtolists detected!
+(scrbook)              You should use the features of package `tocbasic'
+(scrbook)              instead of \float@addtolists.
+(scrbook)              Support for \float@addtolists may be removed from
+(scrbook)              `scrbook' soon .
+
+(C:\Users\mweigert\workspace\TLP\Doku\doc/Java/GUI.tex
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 6.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1cmtt.fd"
+File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+(C:\Users\mweigert\workspace\TLP\src\gui\action\menu\ExitListener.java
+File: pic/ZHAW_logo.png Graphic file (type png)
+
+<use pic/ZHAW_logo.png>
+Package pdftex.def Info: pic/ZHAW_logo.png used on input line 30.
+(pdftex.def)             Requested size: 33.08427pt x 34.61pt.
+ [2
+
+])))
+No file main.ind.
+No file main.bbl.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 230.
+File: pic/ZHAW_logo.png Graphic file (type png)
+<use pic/ZHAW_logo.png>
+Package pdftex.def Info: pic/ZHAW_logo.png used on input line 230.
+(pdftex.def)             Requested size: 33.08427pt x 34.61pt.
+ [3]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 230.
+ (C:\Users\mweigert\workspace\TLP\Doku\main.aux
 (C:\Users\mweigert\workspace\TLP\Doku\Deckblatt.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 230.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 230.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+(rerunfilecheck)             Checksum: EB379D614F4EDAC16572CF677351FD0F;618.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 230.
  ) 
 Here is how much of TeX's memory you used:
- 12623 strings out of 493921
- 185564 string characters out of 3147273
- 310040 words of memory out of 3000000
- 15644 multiletter control sequences out of 15000+200000
- 17743 words of font info for 47 fonts, out of 3000000 for 9000
+ 13272 strings out of 493921
+ 192951 string characters out of 3147273
+ 362040 words of memory out of 3000000
+ 16225 multiletter control sequences out of 15000+200000
+ 20679 words of font info for 52 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 41i,14n,58p,427b,392s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,15n,58p,427b,2025s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\mweigert\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi6
-00\ecsx1728.pk> <C:\Users\mweigert\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jkn
-appen\ec\dpi600\ecti1095.pk> <C:\Users\mweigert\AppData\Local\MiKTeX\2.9\fonts\
-pk\ljfour\jknappen\ec\dpi600\tcrm1095.pk> <C:\Users\mweigert\AppData\Local\MiKT
-eX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1095.pk> <C:\Users\mweigert\AppDa
-ta\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1728.pk> <C:\Users\m
-weigert\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecxc2074.pk
->
-Output written on main.pdf (2 pages, 118922 bytes).
+00\ecrm0600.pk> <C:\Users\mweigert\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jkn
+appen\ec\dpi600\ecsx1200.pk> <C:\Users\mweigert\AppData\Local\MiKTeX\2.9\fonts\
+pk\ljfour\jknappen\ec\dpi600\ecsx1440.pk> <C:\Users\mweigert\AppData\Local\MiKT
+eX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecsx1095.pk> <C:\Users\mweigert\AppDa
+ta\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecsx1728.pk> <C:\Users\m
+weigert\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1095.pk
+> <C:\Users\mweigert\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi60
+0\tcrm1095.pk> <C:\Users\mweigert\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jkna
+ppen\ec\dpi600\ecrm1095.pk> <C:\Users\mweigert\AppData\Local\MiKTeX\2.9\fonts\p
+k\ljfour\jknappen\ec\dpi600\ecbx1728.pk> <C:\Users\mweigert\AppData\Local\MiKTe
+X\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecxc2074.pk><C:/Program Files/MiKTeX 2
+.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on main.pdf (4 pages, 176601 bytes).
 PDF statistics:
- 119 PDF objects out of 1000 (max. 8388607)
- 4 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 346 PDF objects out of 1000 (max. 8388607)
+ 50 named destinations out of 1000 (max. 500000)
+ 91 words of extra memory for PDF output out of 10000 (max. 10000000)
 
