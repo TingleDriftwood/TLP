@@ -48,8 +48,7 @@ public class CreateTables {
 
 		Message message = new Message();
 		if (checkExistingTable("log")) {
-			message.showInformationMessage("Table allready exist, do you wanna delete all data in table?");
-//			message.showInformationMessage("Table log allready exists");
+			message.showYesNoQuestion("Table allready exist, do you wanna delete all data in table?");
 		} else if (conn != null) {
 			String sql = "CREATE  TABLE `tlp`. `log` (`HashTag` BIGINT NOT NULL , `Character_ID` VARCHAR(45) NULL , `Information` LONGTEXT NOT NULL , PRIMARY KEY (`HashTag`) , UNIQUE INDEX `HashTag_UNIQUE` (`HashTag` ASC) ) COMMENT = 'Table to store initial log file (rare data).'";
 			try {

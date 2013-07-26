@@ -1,6 +1,3 @@
-/**
- * 
- */
 package gui.window;
 
 import javafx.event.ActionEvent;
@@ -9,8 +6,8 @@ import javafx.geometry.Pos;
 import javafx.scene.Scene;
 import javafx.scene.control.Button;
 import javafx.scene.control.Label;
-//import javafx.scene.image.Image;
-//import javafx.scene.image.ImageView;
+import javafx.scene.image.Image;
+import javafx.scene.image.ImageView;
 import javafx.scene.layout.FlowPane;
 import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
@@ -23,15 +20,17 @@ import javafx.stage.Stage;
  * 
  */
 public class Message {
+	boolean sw = false;
 
-	public boolean showYesNoQuestion(String message) {
+	public void showYesNoQuestion(String message) {
 		final Stage dialog = new Stage();
+
 		dialog.setTitle("Tingle's Log Parser - User question");
 		dialog.setResizable(false);
 
-		// Image img = new Image("pic/skull.png");
-		// ImageView iView = new ImageView();
-		// iView.setImage(image);
+		Image img = new Image("file:///C:/Users/mweigert/workspace/TLP/skull.png");
+		ImageView iView = new ImageView();
+		iView.setImage(img);
 
 		FlowPane buttons = new FlowPane(10, 10);
 		buttons.setAlignment(Pos.CENTER);
@@ -49,6 +48,7 @@ public class Message {
 			@Override
 			public void handle(ActionEvent arg0) {
 				// TODO Auto-generated method stub
+				// sw = false;
 				dialog.close();
 			}
 		});
@@ -57,13 +57,11 @@ public class Message {
 		VBox box = new VBox();
 		box.setAlignment(Pos.CENTER);
 		box.setSpacing(10);
-		box.getChildren().addAll(new Label(message), buttons);
+		box.getChildren().addAll(iView, new Label(message), buttons);
 
 		Scene s = new Scene(box);
 		dialog.setScene(s);
 		dialog.show();
-		// Method should return je nachdem was user eingibt.
-		return false;
 	}
 
 	public void showErrorMessage(String message) {
@@ -71,9 +69,9 @@ public class Message {
 		dialog.setTitle("Tingle's Log Parser - System Message");
 		dialog.setResizable(false);
 
-		// Image img = new Image("pic/skull.png");
-		// ImageView iView = new ImageView();
-		// iView.setImage(image);
+		Image img = new Image("file:///C:/Users/mweigert/workspace/TLP/skull.png");
+		ImageView iView = new ImageView();
+		iView.setImage(img);
 
 		FlowPane buttons = new FlowPane(10, 10);
 		buttons.setAlignment(Pos.CENTER);
@@ -91,7 +89,7 @@ public class Message {
 		VBox box = new VBox();
 		box.setAlignment(Pos.CENTER);
 		box.setSpacing(10);
-		box.getChildren().addAll(new Label(message), buttons);
+		box.getChildren().addAll(iView, new Label(message), buttons);
 
 		Scene s = new Scene(box);
 		dialog.setScene(s);
